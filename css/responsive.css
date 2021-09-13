@@ -1,0 +1,30 @@
+@media (max-width:700px){
+    #content .columns_2 {
+        display: flex;
+        flex-flow: column;
+    }
+    #news_gallery section {
+        width: 90%;
+    }
+    #press_gallery section {
+        width: 90%;
+    }
+    .mobile {
+      width: 100%;
+      max-width: 100%;
+      flex-basis: 100%!important;
+    }
+    .mobile img {
+      max-width: 100%!important;
+      width: 100%!important;
+    }
+    #content blockquote {
+      font-size: 1.2em;
+    }
+    .manifiest {
+      font-size: 1.4em;
+    }
+    .columns {
+      flex-flow: column;
+    }
+}

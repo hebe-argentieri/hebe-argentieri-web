@@ -1,0 +1,89 @@
+---
+
+# General / Main
+
+title: Hebe Argentieri
+
+subtitle: 
+  es: Joyería Contemporánea
+  en: Art Jewelry
+
+copyright:
+  es: © 2021 Hebe Argentieri - Joyería contemporanea - Argentina
+  en: © 2021 Hebe Argentieri - Art Jewelry - Argentina
+
+
+meta_description: Hebe Argentieri. Joyería Contemporánea. Art Jewelry. Argentina.
+url: 'http://hebeargentieri.com.ar'
+logo_share: './img/logo_share.png'
+logo_normal: ./img/ha_logo.svg?0
+logo_small: ./img/ha_iso.svg?1
+
+
+# Contacto / Contact
+geo:
+  city: Junín
+  country: Argentina
+  icon: ./img/icono-geo.svg
+
+email_g: 
+  account: hebeargentieri@gmail.com
+  icon: ./img/icono-email.svg
+
+email_y: 
+  account: hebeargentieri@yahoo.com.ar
+  icon: ./img/icono-email.svg
+
+facebook: 
+  name: Hebe Argentieri
+  url: https://www.facebook.com/hebeargentierijoyeriacontemporanea1/
+  icon: ./img/icono-facebook.svg
+
+instagram:
+  name: '@hebeargentieri'
+  url: https://instagram.com/hebeargentieri
+  icon: ./img/icono-instagram.svg
+
+joyeros_argentinos:
+  name: 'Joyeros Argentinos'
+  url: https://www.joyeros-argentinos.com.ar/artistas/hebe-argentieri/
+  url2: http://www.joyeros-argentinos.com.ar/creadores-de-joyeria-contemporanea-en-argentina/hebe-argentieri/
+  icon: ./img/icono-joyeros_argentinos.svg
+
+klimt02:
+  name: 'Klimt02'
+  url: https://klimt02.net/jewellers/hebe-argentieri
+  icon: ./img/icono-klimt02.svg
+
+caracu:
+  name: 'Caracú Art'
+  url: https://www.instagram.com/caracu.art/
+  icon: ./img/icono-caracu.svg
+
+
+# Idioma / Language
+lang_change: false
+lang_default: es
+lang_available: { es: Español, en: English }
+
+
+# Descargas / Downloads
+download:
+  cv_pdf: ./download/cv_hebe_argentieri.pdf
+
+
+# Rutas / Paths
+path:
+  news: ./dat/news/
+  pages: ./dat/pages/
+  series: ./dat/series/
+  press: ./dat/press/
+
+# Galeria / Gallery
+gallery:
+  position_sep: ' / '
+  mini_max: 4
+
+# Páginas / Pages
+initial_page: 'p:portada'
+
