@@ -1,6 +1,5 @@
 ---
 title: Portada
-
 ---
 
 {{= html_slide([
