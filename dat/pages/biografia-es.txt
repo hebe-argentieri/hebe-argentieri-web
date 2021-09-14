@@ -38,8 +38,8 @@ Integra los colectivos:
 
 ### Curriculum Vitae
 
-+ [![html](./img/icono-html.svg?0) Online](#p:cv) 
-+ [![pdf](./img/icono-pdf.svg?0) Imprimible]([[= G.cfg.download.cv_pdf ]])
++ [![html](./img/icono-html.svg) Online](#p:cv) 
++ [![pdf](./img/icono-pdf.svg) Imprimible]([[= G.cfg.download.cv_pdf ]])
 
 </div>
 
