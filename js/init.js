@@ -6,9 +6,9 @@ const NO_CACHE = false;
 
 /* underscore custom settings */
 _.templateSettings = {
-  interpolate: /\{\{=([\s\S]+?)\}\}/g,
-  evaluate: /\{\{([\s\S]+?)\}\}/g,
-  escape: /\{\{--([\s\S]+?)\}--\}/g
+  interpolate: /\[\[=([\s\S]+?)\]\]/g,
+  evaluate: /\[\[([\s\S]+?)\]\]/g,
+  escape: /\[\[--([\s\S]+?)\]--\]/g
 };
 
 /* initialization */
