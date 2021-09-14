@@ -77,7 +77,7 @@ function page_activate( v ) {
     redirect_page( G.cfg.initial_page );
   }
 
-  yml_load( 'cfg/menu.yml', function( v ) {
+  yml_load( './cfg/menu.yml', function( v ) {
     lang_button_activate( '#page_lang' );
     header_generate();
     footer_generate();
