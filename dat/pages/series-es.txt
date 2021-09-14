@@ -5,4 +5,4 @@ title: Series
 
 # Series
 
-{{= series_list_generate() }}
+[[= series_list_generate() ]]
