@@ -1,0 +1,22 @@
+---
+
+pages:
+  - portada
+  - biografia
+  - series
+  - clases
+  - contacto
+
+series: 
+  - que_nada_nos_defina
+  - mares_verdes
+  - corazon_silencioso
+  - margaret_mead
+  - terra
+  - genesis
+
+news: []
+#  - 2021-02-01_test
+
+press: []
+#  - 2017_test

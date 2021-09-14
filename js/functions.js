@@ -77,7 +77,7 @@ function page_activate( v ) {
     redirect_page( G.cfg.initial_page );
   }
 
-  yml_load( 'cfg/menus.txt', function( v ) {
+  yml_load( 'cfg/menu.yml', function( v ) {
     lang_button_activate( '#page_lang' );
     header_generate();
     footer_generate();
@@ -158,7 +158,7 @@ function menus_generate( v ) {
         maxScrollTop = menu_pages.position().top;   
 
   menu_pages.html( 
-    _.template( v.html.pages )( { items: v.pages } )
+    _.template( Template.pages )( { items: v.pages } )
   );
 
   menu_pages.delegate( 'a', 'click', function( ev ) {
@@ -301,7 +301,7 @@ function date_news( v ) {
 
 
 function open_gallery( d, i ) {
-  const cnt = $( _.template( G.menues.html.gallery_panel )( {d: d, i: i - 1} ) ),
+  const cnt = $( _.template( Template.gallery_panel )( {d: d, i: i - 1} ) ),
         close = cnt.find( '[name=close]' ),
         prev = cnt.find( '[name=prev]' ).eq( 0 ),
         next = cnt.find( '[name=next]' ).eq( 0 ),
@@ -357,7 +357,7 @@ function series_list_generate() {
   const add = ( d, args ) => {
     if( undefined === G.series_gallery ) { active(); }
     G.series_gallery.find( `#${args.id}` ).html(
-      _.template( G.menues.html.series_gallery_item )( {v: d} ) );
+      _.template( Template.series_gallery_item )( {v: d} ) );
   };
   
   for ( v of G.menues.series ) {
@@ -380,7 +380,7 @@ function news_list_generate() {
   const add = (d, md) => {
     if(G.news_gallery === undefined){ active(); }
     let dat = {v:jsyaml.load(d), t:marked(md)};
-    G.news_gallery.append(_.template(G.menues.html.news_gallery_item)(dat));
+    G.news_gallery.append(_.template(Template.news_gallery_item)(dat));
   };
 
   for(i of G.menues.news){
@@ -395,13 +395,13 @@ function press_list_generate(){
   const id = 'press_gallery';
   
   const active = () => {
-    G.press_gallery = $('#'+id);
+    G.press_gallery = $( '#'+ id) ;
   };
   
   const add = (d, md) => {
     if(G.press_gallery === undefined){ active(); }
-    let dat = {v:jsyaml.load(d), t:marked(md)};
-    G.press_gallery.append(_.template(G.menues.html.press_gallery_item)(dat));
+    let dat = {v:jsyaml.load( d ), t:marked( md )};
+    G.press_gallery.append(_.template(Template.press_gallery_item )( dat ) );
   };
   
   for(i of G.menues.press){
@@ -458,5 +458,5 @@ function html_slide( images ) {
   };
 
   setTimeout( active, 500 );
-  return _.template( G.menues.html.html_slide )( dat );
+  return _.template( Template.html_slide )( dat );
 }
