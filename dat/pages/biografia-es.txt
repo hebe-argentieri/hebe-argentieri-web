@@ -27,9 +27,9 @@ Integra los colectivos:
 
 <div class="list_inline center">
     
-+ [![[[= G.cfg.joyeros_argentinos.name ]]]([[= G.cfg.joyeros_argentinos.icon ]]) [[= G.cfg.joyeros_argentinos.name ]]]([[= G.cfg.joyeros_argentinos.url ]])
-+ [![[[= G.cfg.caracu.name ]]]([[= G.cfg.caracu.icon ]]) [[= G.cfg.caracu.name ]]]([[= G.cfg.caracu.url ]])
-+ [![[[= G.cfg.klimt02.name ]]]([[= G.cfg.klimt02.icon ]]) [[= G.cfg.klimt02.name ]]]([[= G.cfg.klimt02.url ]])
++ [![ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.icon ]]) [[= G.cfg.joyeros_argentinos.name ]]]([[= G.cfg.joyeros_argentinos.url ]])
++ [![ [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.icon ]]) [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.url ]])
++ [![ [[= G.cfg.klimt02.name ]] ]([[= G.cfg.klimt02.icon ]]) [[= G.cfg.klimt02.name ]] ]([[= G.cfg.klimt02.url ]])
 
 </div>
 
