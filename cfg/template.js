@@ -75,11 +75,11 @@ Template.press_gallery_item = `
   </div>
 </section>`;
 
-Template.html_slide = '\
-<div id="{{= id }}" class="slide">\
-  <div class="image">\
-    <img class="back" src="{{= images[0] }}">\
-    <img class="front" src="./img/empty.svg">\
-  </div>\
-  <ul></ul>\
-</div>';
+Template.html_slide = `
+<div id="{{= id }}" class="slide">
+  <div class="image">
+    <img class="back" src="{{= images[0] }}">
+    <img class="front" src="./img/empty.svg">
+  </div>
+  <ul></ul>
+</div>`;
