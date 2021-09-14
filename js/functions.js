@@ -234,11 +234,11 @@ function content_url( d ) {
   if ('s' === t ) {
     return G.cfg.path[ 'series' ] + n + '.yml';
   } else if ( 'p' === t ) {
-    return G.cfg.path[ 'pages' ] + id_lang( n, data.pages ) + '.md.txt';
+    return G.cfg.path[ 'pages' ] + id_lang( n, data.pages ) + '.txt';
   } else if ( 'n' === t ) {
-    return G.cfg.path[ 'news' ] + id_lang( n, data.news ) + '.md.txt';
+    return G.cfg.path[ 'news' ] + id_lang( n, data.news ) + '.txt';
   } else if ( 'r' === t ) {
-    return G.cfg.path[ 'press' ] + id_lang( n, data.press ) + '.md.txt';
+    return G.cfg.path[ 'press' ] + id_lang( n, data.press ) + '.txt';
   }
 }
 
