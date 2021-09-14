@@ -1,8 +1,9 @@
 ---
 title: Portada
+
 ---
 
-{{= html_slide([
+\{\{= html_slide([
     './img/pages/home/0.jpg',
     './img/pages/home/1.jpg',
     './img/pages/home/2.jpg',
@@ -10,7 +11,7 @@ title: Portada
     './img/pages/home/4.jpg',
     './img/pages/home/5.jpg'
     ])
-}}
+\}\}
 
 <div class="manifest">
 
