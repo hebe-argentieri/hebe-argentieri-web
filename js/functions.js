@@ -21,7 +21,7 @@ function md_load( url, fn, args ){
   const sep = '---';
   let d, md, yml;
   $.get( url + no_cache(), function( r ){
-    if ( r.indexOf(sep) > -1 ) {
+    if ( r.indexOf( sep ) > -1 ) {
       d = _.filter( 
         r.split( sep ), 
         function( v ){ return v !== ''; }

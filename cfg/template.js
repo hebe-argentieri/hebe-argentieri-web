@@ -1,4 +1,4 @@
-const Template = {};
+let Template = {};
 
 Template.pages = `
 <ul>{{ _.each(items, function(v){ }} 
