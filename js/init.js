@@ -14,7 +14,7 @@ _.templateSettings = {
 /* initialization */
 $( window ).on({
   load: function(){
-    yml_load( 'cfg/general.yml', page_activate );
+    yml_load( 'cfg/general.yml.txt', page_activate );
   },
   resize: function(){
     logo_fix();
