@@ -1,0 +1,282 @@
+* {
+    font-family: 'Overpass', sans-serif;
+    color: #444;
+    box-sizing: content-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background: #eee;
+    position: relative;
+}
+body.bloqueado {
+    overflow:hidden;
+}
+.cabecera {
+    position: relative;
+}
+.cabecera img {
+    width: 100%;
+    display: block;
+}
+.cabecera .redes {
+    text-decoration: none;
+    color: #fff;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    padding: 10px;
+    background-color: rgba(0,0,0,.3);
+    background-image: url('../img/btn-redes.svg');
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;;
+    width: 17px;
+    height: 17px;
+    border-radius: 3px;
+    border-radius: 100px;
+}
+.cabecera .redes:hover {
+    background-color: rgba(0,0,0,.5);
+}
+.artistas {
+    margin: 5vw;
+}
+.menu {
+    margin: 0;
+    padding: 3vw;
+    background: #333;
+}
+.menu li {
+    margin: 6px 11px;
+    list-style: none;
+    display: inline-block;
+    color: #eee;
+}
+.menu li a {
+    color: inherit;
+    text-decoration: underline transparent;
+}
+.menu li a:hover {
+    text-decoration: underline #eee;
+    color: #fff;
+}
+.texto_curatorial {
+    padding: 4vw 7vw;
+    text-align: left;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+section {
+    padding: 20px 40px;
+    margin: 20px;
+    text-align: left;
+    background: #fff;
+    box-shadow: 0 0 30px rgba(0,0,0,.2);
+    border-radius: 4px;
+}
+
+.volver-menu {
+    text-decoration: none;
+    color: #fff;
+    position: fixed;
+    bottom: 3px;
+    right: 3px;
+    padding: 10px;
+    background-color: rgba(0,0,0,.3);
+    background-image: url('../img/btn-subir.svg');
+    background-size: 80%;
+    background-position: center;
+    background-repeat: no-repeat;;
+    width: 17px;
+    height: 17px;
+    border-radius: 3px;
+    border-radius: 100px;
+}
+
+.volver-menu:hover {
+    background-color: rgba(0,0,0,.5);
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.7em;
+    font-weight: 300;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 1.1em;
+}
+
+.artista {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.artista .comentario {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 4vw;
+    text-align:center;
+}
+.obras {
+    display: flex;
+    flex-flow: row;
+    overflow: auto;
+    justify-content: center;
+}
+
+.obras .obra {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.obra .miniatura {
+    cursor: pointer;
+    position: relative;
+}
+.obra .miniatura .ampliar {
+    background-color: #000;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 50%;
+    margin-top: -15px;
+    right: 0;
+    width: 30px;
+    height: 30px;
+    background-color: #aaa;
+    background-image: url('../img/btn-ampliar.svg');
+    background-size: 60%;
+    background-position: center;
+    background-repeat: no-repeat;;
+    border-radius: 100px;
+    cursor: pointer;
+}
+.obra .miniatura:hover .ampliar {
+    Background-color: #444;
+}
+.obra .miniatura img {
+    display: block;
+    width: 100%;
+}
+
+#panel_flotante {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: auto;;
+    background: rgba(200,200,200,.85);
+    padding: 5vw;
+    display: none;
+}
+#panel_flotante.activo {
+    display: block;
+}
+#panel_flotante .contenido {
+    background: #fff;
+    padding: 4vw 2vw;
+}
+#panel_flotante .cerrar {
+    position: fixed;
+    left: 50%;
+    margin-left: -15px;
+    top: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #aaa;
+    background-image: url('../img/btn-cerrar.svg');
+    background-size: 60%;
+    background-position: center;
+    background-repeat: no-repeat;;
+    border-radius: 100px;
+    cursor: pointer;
+    border: 2px solid #fff;
+}
+#panel_flotante .cerrar:hover {
+    background-color: #444;
+}
+
+.obra .ficha {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+.obra .ficha li {
+    list-style: none;
+    border-bottom: 1px solid #ccc;
+    margin: 5px;
+    padding: 5px;
+}
+.obra .ficha li span {
+    color: #888;
+    text-transform: uppercase;
+    font-size: .8em;
+}
+.obra .texto {
+    display: flex;
+    flex-flow: row;
+}
+.obra .destacado {
+    font-size: 1.3em;
+}
+
+.obra .fotos .imagenes {
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+}
+.obra .fotos .imagenes small {
+    color: transparent;
+    padding: 3px;
+}
+
+.obra .fotos .imagenes:hover small {
+    color: #fff;
+    background: #888;
+}
+.obra .fotos .imagenes img {
+    display: inline-block;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+
+
+footer {
+    padding: 3vw;
+    background: #333;
+    font-size: .9em;
+}
+footer ul {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+footer li {
+    list-style: none;
+    color: #bbb;
+    margin: 3px;
+    padding: 3px;
+    border-bottom: 1px solid #222;
+}
+footer a {
+    text-decoration: none;
+    color: inherit;
+}
+footer a:hover {
+    text-decoration: underline #888;
+}
+.align-left {
+    text-align: left!important;
+}
+.column1d2 {
+    width: 50%;
+}
+.centrar {
+    text-align: center;
+}

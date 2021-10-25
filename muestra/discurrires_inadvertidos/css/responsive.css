@@ -1,0 +1,33 @@
+
+@media (min-width:701px){
+    .cabecera .gr {
+	display: block;
+    }
+    .cabecera .ch {
+	display: none;
+    }
+}
+
+@media (max-width:700px){
+    .mobile {
+      width: 100%;
+      max-width: 100%;
+      flex-basis: 100%!important;
+    }
+    .obras {
+	flex-flow: column;
+    }
+    .obras .obra {
+	width: 200px;
+    }
+    .obra .texto {
+	flex-flow: column;
+    }
+    .cabecera .gr {
+	display: none;
+    }
+    .cabecera .ch {
+	display: block;
+    }
+
+}
