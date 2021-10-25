@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es_AR">
+    <head>
+	<meta charset="utf-8">
+
+	<meta content="ie=edge" http-equiv="x-ua-compatible">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<meta content="true" name="HandheldFriendly">
+	<meta content="width" name="MobileOptimized">
+	<meta content="on" http-equiv="cleartype">
+
+	<link rel="icon" href="./img/favicon.svg" type="image/svg+xml">
+	<link rel="alternate icon" href="./img/favicon_256.png" type="image/png">
+	<link rel="apple-touch-icon" href="./img/favicon_60.png" sizes="60x60">
+	<link rel="apple-touch-icon" href="./img/favicon_76.png"  sizes="76x76">
+	<link rel="apple-touch-icon" href="./img/favicon_120.png"  sizes="120x120">
+	<link rel="apple-touch-icon" href="./img/favicon_152.png"  sizes="152x152">
+
+	<meta content="{{ metadata['descripcion'] }}" name="description">
+	<meta content="index, follow" name="robots">
+
+	<meta property="og:title" content="{{ metadata['titulo'] }}">
+	<meta property="og:site_name" content="{{ metadata['titulo'] }}">
+	<meta property="og:description" content="{{ metadata['descripcion'] }}">
+	<meta property="og:locale" content="es_AR">
+	<meta property="og:image" content="./img/logo_share.jpg">
+	<meta property="og:image:alt" content="{{ metadata['descripcion'] }}">
+
+	<!-- <link rel="canonical" href="https://hebeargentieri.com.ar"> -->
+	<link rel="image_src" href="./img/logo_share.png">
+
+	<!--[if lt IE 9]><script src="./js/html5shiv.min.js"></script><![endif]-->
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,300;0,700;0,900;1,300;1,700;1,900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="./css/normalize-min.css">
+	<link rel="stylesheet" href="./css/estilo.css">
+	<link rel="stylesheet" href="./css/responsive.css">
+
+	<title>{{ titulo }}</title>
+    </head>
+    <body>
+	<div class="content">
+	    <header>
+		<div class="cabecera">
+		    <img class="gr" src="./img/cabecera-gr.jpg" alt="{{ titulo }}">
+		    <img class="ch" src="./img/cabecera-ch.jpg" alt="{{ titulo }}">
+		    <a href="#rs" class="redes"></a>
+		</div>
+		<nav>
+		    <ul id="mn" class="menu">
+			{% for a in artistas  %}
+			<li>
+			    <a href="#{{ a['id'] }}">{{ a['nombre'] }} {{ a['apellido'] }}</a>
+			</li>
+			{% endfor %}
+		    </ul>
+		</nav>
+	    </header>
+	    <div class="texto_curatorial">{{ texto_curatorial | markdown }}</div>
+	    <div class="artistas">
+		{% for  a in artistas  %}
+		{% set i = loop.index %}
+		<section id="{{ a['id'] }}">
+		    <div class="artista">
+			<h3>{{ a['nombre'] }} {{ a['apellido'] }}</h3>
+			<div class="comentario {{ a['comentario_css'] }}">
+			    {{ a['comentarios'] | markdown }}
+			</div>
+		    </div>
+		    <div class="obras">
+			{% for o in a['obras'] %}
+			{% set j = loop.index %}
+			{% set id_obra = ['obras_', i, '_', j]|join('') %}
+			<div class="obra">
+			    <div class="miniatura" data-idpla="{{ id_obra }}">
+				<img src="./img/foto/c/{{ o['img'][0] }}" alt="{{ o['titulo'] }}">
+				<span class="ampliar"></span>
+			    </div>
+			    <script type="text/template" id="{{ id_obra }}" >
+				<div class="texto">
+				    <div class="column1d2 centrar mobile">
+					<h3>{{ a['nombre'] }} {{ a['apellido'] }}</h3>
+				    </div>
+				    <ul class="column1d2 ficha mobile">
+					{% if o['serie'] %}
+					<li><span>Serie</span> {{ o['serie'] }}</li>
+					{% endif %}
+					<li><span>Título</span><em class="destacado"> {{ o['titulo'] }}</em></li>
+					<li><span>Tipo de joya</span> {{ o['tipo'] }}</li>
+					<li><span>Material</span> {{ o['material'] }}</li>
+					<li><span>Técnica</span> {{ o['tecnica'] }}</li>
+					<li><span>Alto x ancho x profundidad</span>
+					    {{ o['medidas'] }} <span>cm</span></li>
+					<li><span>Ph.</span> {{ o['foto'] }}</li>
+				    </li>
+				</div>
+				<div class="fotos">
+				    <div class="imagenes">
+					{% for i in o['img'] %}
+					<img src="./img/foto/g/{{ i }}" alt="{{ o['titulo'] }}" >
+					{% endfor %}
+				    </div>
+				</div>
+			    </script>
+			</div>
+			{% endfor %}
+		    </div>
+		</section>
+		{% endfor %}
+	    </div>
+
+	    <footer id="rs">
+		<ul>
+		    {% for r in redes %}
+		    {% if r == '' %}
+		    <br>
+		    {% else %}
+		    <li><a href="{{ r[1] }}" target="_blank">{{ r[0] }}</a></li>
+		    {% endif %}
+
+		    {% endfor %}
+		</ul>
+	    </footer>
+	</div>
+
+	<a class="volver-menu" href="#mn" title="Volver al Menú"></a>
+
+	<script src="./js/underscore-min.js"></script>
+	<script src="./js/jquery-3.6.0.min.js"></script>
+	<script src="./js/functions.js"></script>
+	<script src="./js/init.js"></script>
+
+	<div id="panel_flotante">
+	    <div class="contenido"></div>
+	    <div class="cerrar"></div>
+	</div>
+    </body>
+</html>

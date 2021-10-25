@@ -1,0 +1,666 @@
+---
+titulo: Muestra DISCURRIR(ES) Inadverdo(s) - Taller Hebe Argentieri
+
+metadata:
+  descripcion: 'DISCURRIR(ES) Inadverdo(s). Taller Hebe Argentieri. Joyería Contemporánea. Art Jewelry. Argentina.'
+  titulo: 'DISCURRIR(ES) Inadverdo(s). Taller Hebe Argentieri'
+
+texto_curatorial: |
+  Invisibles como ríos subterráneos que nadie ve ni escucha, aunque el río recorra orondo y resonante la superficie de nuestra tierra, construimos en un constante fluir, explorando, descubriendo en nuestras búsquedas individuales, profundas, nuestros caminos imperceptibles, inadvertidos.
+
+  El taller como territorio, idea de espacio personal y colectivo, cultural e histórico, punto de partida y de llegada, en donde se fraguan el oficio, los deseos, las poéticas y emociones. Caminos individuales que confluyen en lo colectivo para transformar lo inadvertido en evidente.
+
+  Las artistas invitadas aportan caminos que unen distintos territorios en nuestras búsquedas compartidas. De Junín a Buenos Aires. De Buenos Aires a Junín.
+
+  **Taller Hebe Argentieri**, Junín 2021
+
+redes:
+  - [Video - Inauguración, 'https://youtu.be/mKZKg6zeajQ']
+  - [Video - Presentación en Laguna de Gomez - Junín, 'https://youtu.be/Qj1SV1X1jWE']
+  - [Video - Presentación en Tono Local - Junín, 'https://youtu.be/Qj1SV1X1jWE']
+  - [Muestra en La Bienal, 'https://labienal.ar/exposicion-21']
+  - ''
+  - [Hebe Argentieri - Youtube Channel, 'https://www.youtube.com/channel/UCSf2hkVxJPf4MGmnD1gWn2A']
+  - [Hebe Argentieri - Web, 'https://hebeargentieri.com.ar/']
+
+artistas:
+  -
+    nombre: María Celina
+    apellido: Craviolatti
+    comentario_css: 'align-left'
+    comentarios: |
+      Como la realidad actual era muy hostil, fui a descubrir los enigmas del fondo del mar. Me encontré con una ascidia y me enteré de que en su juventud recorrió muchas rocas y arrecifes de coral hasta descubrir su casa para toda la vida y al fin echar raíces. Cuando concluyó su tarea se convirtió en adulta, consideró que estaba en condiciones de anular su búsqueda y como ya no tenía ninguna necesidad, absorbió su propio sistema nervioso porque ya no lo necesitaba.
+
+    obras:
+      -
+        titulo: Enigmas
+        tipo: Broche
+        material: Bronce, resina, acero.
+        tecnica: Cera perdida, construcción.
+        medidas: 11 x 3,8 x 3,5
+        foto: Emmanuel Borao
+        img:
+          - maria_celina_craviolatti/7063.jpg
+          - maria_celina_craviolatti/7075.jpg
+
+  -
+    nombre: María Rosa
+    apellido: Mongelli
+    comentario_css: 'align-left'
+    comentarios: |
+      Mis obras fueron creadas cuando comenzó la pandemia.
+      <br>Mi mente estaba dispersa, temerosa, transitando algo tan desconocido y aterrador.
+      <br>Mi taller fue el lugar de encuentro conmigo misma y a partir de ahí, todo fue cambiando.
+      <br>Llegó la calma, la quietud y el reencuentro con materiales olvidados.
+      <br>La creación me permitió disfrutar de momentos increíbles y los materiales fueron mis aliados a la hora de transmitir mis sentimientos.
+
+    obras:
+      -
+        serie: Sombras
+        titulo: Luces y Sombras I
+        tipo: Anillo
+        material: Foamboard, gasa, alpaca.
+        tecnica: Mixta.
+        medidas: 4 x 8 x 3.5
+        foto: María Rosa Mongelli
+        img:
+          - maria_rosa_mongelli/anillo_1.jpg
+      -
+        serie: Sombras
+        titulo: Luces y Sombras II
+        tipo: Anillo
+        material: Foamboard, gasa, alpaca, alabastro.
+        tecnica: Mixta.
+        medidas: 4.5 x 4 x 7
+        foto: María Rosa Mongelli
+        img:
+          - maria_rosa_mongelli/anillo_2.jpg
+
+      -
+        serie: Sombras
+        titulo: Luces y Sombras
+        tipo: Broche
+        material: Foamboard, gasa, alpaca, carbón.
+        tecnica: Mixta.
+        medidas: 15 x 4 x 7
+        foto: María Rosa Mongelli
+        img:
+          - maria_rosa_mongelli/broche.jpg
+
+  -
+    nombre: Graciela
+    apellido: Riva
+    comentario_css: 'align-left'
+    comentarios: |
+      **SacrifICIO/lat. sacrificium**
+
+      “Sacrificios” es el nombre de mi obra y se origina a partir de mi última visita al norte argentino. Dos niñas y un niño incas de 500 años de antigüedad fueron encontrados tras una expedición arqueológica de alta montaña en 1999, enterrados y en perfecto estado de conservación en el volcán LLullaillaco. Junto a ellos, elegidos para ser ofrecidos a los dioses, hallaron objetos que formaban parte de la ceremonia. Las piezas evocan a esos niños y esas ofrendas.
+
+    obras:
+      -
+        serie: Sacrificios
+        titulo: Sacrificio I
+        tipo: Broche
+        material: Rafia, chaguar, yute, adobe, pintura acrílica, yeso, alpaca.
+        tecnica: Mixta.
+        medidas: 15 x 5 x 5
+        foto: Emmanuel Borao
+        img:
+          - graciela_riva/5459b.jpg
+          - graciela_riva/5459.jpg
+      -
+        serie: Sacrificios
+        titulo: Sacrificio II
+        tipo: Broche
+        material: Bronce patinado, alpaca, cobre, rafia, hilos naturales, pintura acrílica.
+        tecnica: Construcción y técnicas textiles.
+        medidas: 21,5 x 19,5 x 25
+        foto: Emmanuel Borao
+        img:
+          - graciela_riva/01.jpg
+          - graciela_riva/03.jpg
+
+  -
+    nombre: Rocío
+    apellido: Vergerio
+    comentario_css: ''
+    comentarios: |
+      Viscus.
+
+      Desde las entrañas.
+
+      Reacción intensa. Incontrolable. Irracional.
+
+      Toda verdad externa encubre y esconde otra interna.
+
+    obras:
+      -
+        serie: Viscus
+        titulo: Viscus I
+        tipo: Broche
+        material: Lanilla reciclada con estampa artesanal de papel foil, hilo elástico, cordón de algodón, bronce, acero.
+        tecnica: Textil. Construcción.
+        medidas: 13 x 10 x 8
+        foto: Emmanuel Borao
+        img:
+          - rocio_vergerio/7299.jpg
+          - rocio_vergerio/7308.jpg
+      -
+        serie: Viscus
+        titulo: Viscus II
+        tipo: Broche
+        material: Lanilla reciclada con estampa artesanal de papel foil, hilo elástico, cordón de algodón, pintura acrílica, acero.
+        tecnica: Textil.
+        medidas: 21 x 10 x 11
+        foto: Emmanuel Borao
+        img:
+          - rocio_vergerio/7324.jpg
+          - rocio_vergerio/7326.jpg
+      -
+        serie: Viscus
+        titulo: Viscus III
+        tipo: Collar
+        material: Lanilla reciclada con estampa artesanal de papel foil, hilo elástico, cordón de algodón, pintura acrílica, vellón siliconado.
+        tecnica: Textil.
+        medidas: 35 x 25 x 14
+        foto: Emmanuel Borao
+        img:
+          - rocio_vergerio/7337.jpg
+          - rocio_vergerio/7446.jpg
+
+  -
+    nombre: Mirta
+    apellido: Lhomy
+    comentario_css: ''
+    comentarios: |
+      **Cuerpo alerta**
+
+      A través de estas piezas abro un diálogo. Forman parte de mi manera de contar, contarme, desnudar el dolor. Y sanar heridas- viejas y nuevas.
+
+    obras:
+      -
+        serie: Al desnudo
+        titulo: Al desnudo I
+        tipo: Broche
+        material: Cobre, alpaca.
+        tecnica: Construcción.
+        medidas: 5 x 5 x 1,8
+        foto: Emmanuel Borao
+        img:
+          - /mirta_lhomy/a_1.jpg
+          - /mirta_lhomy/a_3.jpg
+      -
+        serie: Al desnudo
+        titulo: Al desnudo II
+        tipo: Broche
+        material: Cobre, alpaca.
+        tecnica: Construcción.
+        medidas: 5 x 5 x 1,2
+        foto: Emmanuel Borao
+        img:
+          - /mirta_lhomy/b_1.jpg
+          - /mirta_lhomy/b_2.jpg
+      -
+        serie: Al desnudo
+        titulo: Al desnudo III
+        tipo: Broche
+        material: Cobre, alpaca.
+        tecnica: Construcción.
+        medidas: 5 x 5 x 1
+        foto: Emmanuel Borao
+        img:
+          - /mirta_lhomy/c_1.jpg
+          - /mirta_lhomy/c_3.jpg
+
+  -
+    nombre: Susana
+    apellido: Ortiz
+    comentario_css: ''
+    comentarios: |
+      La explosión de la pandemia me halló trabajando con el tema de la vulnerabilidad. Y cómo  nos atraviesan los cambios inesperados. Comencé a construir formas cerradas que llamé úteros (serie de los úteros l y II). El útero, aquel espacio en donde la vida es protegida antes de nacer. Representa el anhelo de sentirse a resguardo para restaurar fuerzas y resistir. La humanidad está enfrentando un cambio de conciencia para abrirse a un nuevo paradigma.
+
+    obras:
+      -
+        serie: Uteros II
+        titulo: Después del encierro... apertura
+        tipo: broche
+        material: Tejido industrial plástico, hilo.
+        tecnica: Modelado por calor, cosido.
+        medidas: 24 x 12 x 9
+        foto: Priscilla Acevedo
+        img:
+          - susana_ortiz/1_1.jpg
+          - susana_ortiz/1_3.jpg
+      -
+        serie: Uteros II
+        titulo: Entre ir y venir... encontrar la salida
+        tipo: Colgante
+        material: Tejido industrial plástico, hilo.
+        tecnica: Modelado por calor, cosido.
+        medidas: 57 x 12 x 7
+        foto: Priscilla Acevedo
+        img:
+          - susana_ortiz/2_1.jpg
+          - susana_ortiz/2_3.jpg
+      -
+        serie: Uteros II
+        titulo: Ir y venir de lo denso a lo sutil
+        tipo: brazalete
+        material: Tejido industrial plástico, hilo.
+        tecnica: Modelado por calor y cosido.
+        medidas: 11 x 7 x 2
+        foto: Priscilla Acevedo
+        img:
+          - susana_ortiz/3_1.jpg
+          - susana_ortiz/3_2.jpg
+
+  -
+    nombre: Graciela
+    apellido: Manzione
+    comentario_css: 'align-left'
+    comentarios: |
+      Buscar cobijo, refugio, seguridad en el encierro, pero con tramas que nos unan, y en la unión, no sentirnos tan solos. Tan vulnerables. Tan frágiles. A la vez, crear barreras, defensas, límites para que nada se nos acerque, manteniéndonos amparados, sobreviviendo. Resistiendo. Continuando...
+
+    obras:
+      -
+        serie: Contradicciones
+        titulo: Contradicciones I
+        tipo: Collar
+        material: Alpaca, plata, cuentas, tanza de acero, hilo de nylon.
+        tecnica: Textil, telar, ensamblado en frío.
+        medidas: 41 x 37 x 3,5
+        foto: Emmanuel Borao
+        img:
+          - graciela_manzione/7586_39.jpg
+          - graciela_manzione/7653_106.jpg
+      -
+        serie: Contradicciones
+        titulo: Contradicciones II
+        tipo: Broche
+        material: Alpaca, plata, cuentas, tanza de acero, hilo de nylon.
+        tecnica: Técnicas textiles, ensamblado en frío.
+        medidas: 25 x 24 x 3,5
+        foto: Emmanuel Borao
+        img:
+          - graciela_manzione/broche.jpg
+          - graciela_manzione/detalle_broche.jpg
+
+  -
+    nombre: Susana
+    apellido: Nazer
+    comentario_css: 'align-left'
+    comentarios: |
+      [erotismo en fuga]
+
+      Serie de piezas que abordan poéticamente la memoria de nuestras cuerpas como dimensión extensa: desde las mujeres con el deseo- goce domesticado, al estallido de la voz erótica y pública que nos habilita a subvertir las relaciones de poder.
+
+      >_«El orgasmo es una conquista femenina de hace muy pocos años. El poder también.»_ <br>**Luciana Peker**
+
+      Las piezas se despliegan sobre raso, tela fetiche del ajuar femenino. Afectan zonas significativas del cuerpo: el tocado, al mandato de cubrir una cabeza que no les pertenecía y el colgante en torso y espalda habitando la afectividad.
+
+    obras:
+      -
+        serie: Erotismo en fuga
+        titulo: Erotismo en fuga I
+        tipo: Tocado
+        material: Textiles, hilados, aluminio.
+        tecnica: Mixta.
+        medidas: 88 x 23 x 11
+        foto: Emmanuel Borao
+        img:
+          - susana_nazer/7473.jpg
+          - susana_nazer/7475.jpg
+      -
+        serie: Erotismo en fuga
+        titulo: Erotismo en fuga II
+        tipo: Collar
+        material: Textiles, hilados, papel, aluminio.
+        tecnica: Mixta.
+        medidas: 96 x 32 x 5
+        foto: Emmanuel Borao
+        img:
+          - susana_nazer/7368.jpg
+          - susana_nazer/7454.jpg
+
+  -
+    nombre: Sebastián
+    apellido: Alvarez
+    comentario_css: 'align-left'
+    comentarios: |
+      **Pampa**
+
+      Latinoamérica: territorio de dominación.
+      <br>La Pampa: mi territorio.
+      <br>Alambrado, división, marca, erosión, envenenamiento.
+      <br>La piel: superficie donde se inscribe la marca.
+      <br>Múltiples pieles, un solo alambrado.
+      <br>La posibilidad humana de evadir(se), transformar(se), hacer(se) con la marca, introducirla en un circuito diferente, volverla deseo.
+
+    obras:
+      -
+        serie: Pampa
+        titulo: Pampa 1
+        tipo: Gargantilla
+        material: Alpaca, cobre, plata, púas de hierro.
+        tecnica: Construcción.
+        medidas: 26 x 12 x 1,65
+        foto: Emmanuel Borao
+        img:
+          - sebastian_alvarez/7151.jpg
+          - sebastian_alvarez/7166.jpg
+      -
+        serie: Pampa
+        titulo: Pampa 2
+        tipo: Anillo
+        material: Alpaca, cobre, púas de hierro.
+        tecnica: Construcción.
+        medidas: 7,4 x 1,8 x 2,2
+        foto: Emmanuel Borao
+        img:
+          - sebastian_alvarez/7194.jpg
+          - sebastian_alvarez/7192.jpg
+  -
+    nombre: Alicia
+    apellido: Cataldi
+    comentario_css: ''
+    comentarios: |
+      Fragmentos abandonados. Desterrados. Como evidencias. Los encuentro y habito.
+
+    obras:
+      -
+        serie: Evocaciones encontradas
+        titulo: Evocaciones encontradas I
+        tipo: Broche
+        material: Bronce, objetos encontrados, resina, pintura, acero.
+        tecnica: Cera perdida, ensamble.
+        medidas: 11 x 8,5 x 2
+        foto: Emmanuel Borao
+        img:
+          - alicia_cataldi/6905.jpg
+          - alicia_cataldi/6906.jpg
+      -
+        serie: Evocaciones encontradas
+        titulo: Evocaciones encontradas II
+        tipo: Broche
+        material: Bronce, objetos encontrados, resina, pintura, acero.
+        tecnica: Cera perdida, ensamble.
+        medidas: 8,5 x 6 x 2,5
+        foto: Emmanuel Borao
+        img:
+          - alicia_cataldi/6926.jpg
+          - alicia_cataldi/6937.jpg
+  -
+    nombre: Gabriela
+    apellido: Ledesma
+    comentario_css: ''
+    comentarios: |
+      Transmutar, el cambio de las formas florece.
+
+    obras:
+      -
+        titulo: Transmutar
+        tipo: Broche
+        material: Bronce, barbijos, tinta china, pintura, hilo.
+        tecnica: Construcción, cera perdida, cosido.
+        medidas: 17 x 13 x 4,5
+        foto: Emmanuel Borao
+        img:
+          - gabriela_ledesma/6975.jpg
+          - gabriela_ledesma/6978.jpg
+  -
+    nombre: Natalia
+    apellido: Astesiano
+    comentario_css: 'align-left'
+    comentarios: |
+      Tez mate, ojos claros, descendencia vasco francesa y greco romana.
+      <br>Apariencia judía, bautizada en el catolicismo, hoy atea.
+      <br>Devota de la naturaleza.
+      <br>Inquieta, movediza, colorinche, exagerada, un poco desprolija y charleta.
+      <br>Psicoanalista poco ortodoxa, arteterapeuta, jardinera y joyera.
+      <br>Soy el fruto diversas semillas, rituales, creencias, culturas, dioses, amuletos, talismanes, conjuros y maldiciones, soy sudamericana.
+
+    obras:
+      -
+        titulo: Relicario andino
+        tipo: Collar
+        material: Hilos, semilla de Congolo, plata 900, alpaca, cobre, bronce, madera de jacaranda boliviano.
+        tecnica: Construcción, oxidaciones.
+        medidas: 47 x 5,5 x 1,7
+        foto: Damian Wasser
+        img:
+          - natalia_astesiano/9549a.jpg
+          - natalia_astesiano/9549b.jpg
+      -
+        titulo: Trompo simiente
+        tipo: Anillo
+        material: Alpaca, semilla de Congolo, bronce.
+        tecnica: Construcción, oxidaciones.
+        medidas: 5 x 4 x 4
+        foto: Damian Wasser
+        img:
+          - natalia_astesiano/9563a.jpg
+          - natalia_astesiano/9563b.jpg
+  -
+    nombre: Mabel
+    apellido: Pena
+    comentario_css: align-left
+    comentarios: |
+      La vida fluye de la mano de los humedales donde el agua tiene un lugar preponderante y la flora y la fauna vibran en todo su esplendor.
+
+      La tierra no es concebible sin los humedales. Son fuente de alimento, sostienen la biodiversidad, capturan carbono, regulan las inundaciones o sequías. Sin embargo, se los destruye de manera voraz.
+
+      Esta serie es mi manera de repensar las acciones y consecuencias que el hombre produce en la naturaleza. Transmitir y crear una mayor toma de conciencia sobre el impacto negativo que producen los desechos plásticos en la biodiversidad de Latinoamérica.
+
+    obras:
+      -
+        serie: Humedales
+        titulo: Transmutación
+        tipo: Anillo
+        material: Filamento 3D, tintas.
+        tecnica: Dibujo 3D, teñido.
+        medidas: 8 x 9 x 8
+        foto: Damián Wasser
+        img:
+          - mabel_pena/3_0.jpg
+          - mabel_pena/3_1.jpg
+      -
+        serie: Humedales
+        titulo: Humedales V
+        tipo: Collar
+        material: Plata 925, filamento 3D, tintas.
+        tecnica: Dibujo 3D, cera perdida, teñido.
+        medidas: 43 x 30 x 3
+        foto: Damián Wasser
+        img:
+          - mabel_pena/2_0.jpg
+      -
+        serie: Humedales
+        titulo: Humedales VI
+        tipo: Brazalete
+        material: Filamento 3D, tintas.
+        tecnica: Dibujo 3D, teñido.
+        medidas: 10,5 x 10,15 x 14
+        foto: Damián Wasser
+        img:
+          - mabel_pena/1_1.jpg
+          - mabel_pena/1_2.jpg
+  -
+    nombre: Marcela
+    apellido: Cobo
+    comentario_css: ''
+    comentarios: |
+      _«El que nos encontremos tan a gusto en plena naturaleza proviene de que ésta no tiene opinión sobre nosotros»_
+      <br>**Friedrich Nietzsche**
+    obras:
+      -
+        serie: Passionis
+        titulo: Passionis I
+        tipo: Anillo
+        material: Bronce, fibras de palmera, resina.
+        tecnica: Cera perdida, pátinas, ensamble.
+        medidas: 31 x 16 x 2
+        foto: Emmanuel Borao
+        img:
+          - marcela_cobo/6986.jpg
+          - marcela_cobo/6990.jpg
+      -
+        serie: Passionis
+        titulo: Passionis II
+        tipo: Broche
+        material: Bronce, fibras de palmera, resina, acero.
+        tecnica: Cera perdida, pátinas, ensamble.
+        medidas: 32 x 14 x 5
+        foto: Emmanuel Borao
+        img:
+          - marcela_cobo/7018.jpg
+          - marcela_cobo/7052.jpg
+  -
+    nombre: Hebe
+    apellido: Argentieri
+    comentario_css: ''
+    comentarios: |
+      (...)
+      <br>Ni un rayo de luna
+      <br>filtrado me haya.
+      <br>Ni una margarita
+      <br>se diga mi hermana.
+      <br>Tú me quieres nívea,
+      <br>tú me quieres blanca,
+      <br>tú me quieres alba
+      <br>(...)
+
+      **Alfonsina Storni**
+
+    obras:
+      -
+        serie: Me quieres blanca
+        titulo: Me quieres blanca I
+        tipo: Broche
+        material: Madera, bronce, sellador industrial, pintura, acero.
+        tecnica: Construcción. Tallado.
+        medidas: 22 x 9,5 x 9,5
+        foto: Emmanuel Borao
+        img:
+          - hebe_argentieri/7210.jpg
+          - hebe_argentieri/7217.jpg
+      -
+        serie: Me quieres blanca
+        titulo: Me quieres blanca II
+        tipo: Broche
+        material: Madera, pintura, cobre, acero.
+        tecnica: Construcción. Tallado.
+        medidas: 14 x 6 x 3
+        foto: Emmanuel Borao
+        img:
+          - hebe_argentieri/7260.jpg
+          - hebe_argentieri/7257.jpg
+      -
+        serie: Me quieres blanca
+        titulo: Me quieres blanca III
+        tipo: Broche
+        material: Madera, bronce, sellador industrial, pintura, acero.
+        tecnica: Construcción. Tallado.
+        medidas: 7 x 5 x 5
+        foto: Emmanuel Borao
+        img:
+          - hebe_argentieri/7274.jpg
+          - hebe_argentieri/7278.jpg
+  -
+    nombre: Marita
+    apellido: Sario
+    comentario_css: 'align-left'
+    comentarios: |
+      Las piezas que aquí presento pertenecen a la serie Oportunidades de habitarme, realizada durante el año 2020  entre desconcierto y muchas  horas en el taller.
+
+      Volví a ver mi obra anterior a la joyería, pinturas , dibujos, escritos, me animé a transformar un cuadro en un collar, a usar el canvas para generar volúmenes, a pintar nuevamente, esta vez en función de piezas portables.
+
+      Discurrires mágicos, juegos y encuentros, oportunidades de habitar mis espacios íntimos, de hallar la manera de seguir apostando a la creación.
+
+    obras:
+      -
+        serie: Nostalgias del caracol
+        titulo: Nostalgias del caracol I
+        tipo: Collar
+        material: Canvas, pinturas a la tiza, alpaca.
+        tecnica: Textil.
+        medidas: 45 x 30 x 3
+        anno: 2020
+        foto: Damián Wasser
+        img:
+          - marita_sario/collar.jpg
+      -
+        serie: Nostalgias del caracol
+        titulo: Nostalgias del caracol II
+        tipo: Broche
+        material: Canvas, pinturas a la tiza, alpaca, acero.
+        tecnica: Textil.
+        medidas: 12 x 8 x 6
+        anno: 2020
+        foto: Damián Wasser
+        img:
+          - marita_sario/broche_1.jpg
+      -
+        serie: Nostalgias del caracol
+        titulo: Mientras espero
+        tipo: Broche
+        material: Canvas, pinturas a la tiza, acero.
+        tecnica: Textil.
+        medidas: 18 x 10 x 7
+        anno: 2020
+        foto: Tobías Cortés
+        img:
+          - marita_sario/broche_2.jpg
+  -
+    nombre: Paula
+    apellido: Botto Fiora
+    comentario_css: ''
+    comentarios: |
+      **Violencia Social**
+
+      Este trabajo es una reflexión sobre el incremento de la violencia. En una época de tanta incertidumbre, angustia y desigualdad la violencia social se incrementa fuertemente. Las relaciones sociales se vuelven cada vez más complejas y por consiguiente terminemos todos heridos.
+
+    obras:
+      -
+        serie: Heridos
+        titulo: Heridos I
+        tipo: Collar
+        material: Madera balsa, gesso, pintura spray.
+        tecnica: Construcción.
+        medidas: 57 x 125 x 7
+        foto: Damián Wasser
+        img:
+          - paula_botto_fiora/1_1.jpg
+          - paula_botto_fiora/1_2.jpg
+      -
+        serie: Heridos
+        titulo: Heridos II
+        tipo: Broche
+        material: Madera balsa, gesso, pintura spray.
+        tecnica: Construcción.
+        medidas: 5,2 x 5,4 x 6,4
+        foto: Damián Wasser
+        img:
+          - paula_botto_fiora/2_1.jpg
+          - paula_botto_fiora/2_2.jpg
+      -
+        serie: Heridos
+        titulo: Heridos III
+        tipo: Broche
+        material: Madera balsa, gesso, pintura spray.
+        tecnica: Construcción.
+        medidas: 10,7 x 7,5 x 6
+        foto: Damián Wasser
+        img:
+          - paula_botto_fiora/3_1.jpg
+          - paula_botto_fiora/3_2.jpg
+      -
+        serie: Heridos
+        titulo: Heridos IV
+        tipo: Anillo
+        material: Madera balsa, madera Kiri, gesso, pintura spray.
+        tecnica: Construcción.
+        medidas: 5,5 x 4,5 x 6,5
+        foto: Damián Wasser
+        img:
+          - paula_botto_fiora/4_1.jpg
+          - paula_botto_fiora/4_3.jpg
