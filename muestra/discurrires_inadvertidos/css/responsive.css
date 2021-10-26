@@ -9,6 +9,9 @@
 }
 
 @media (max-width:700px){
+    .artistas {
+	margin: 5vw 4vw;
+    }
     .mobile {
       width: 100%;
       max-width: 100%;
@@ -16,8 +19,10 @@
     }
     .obras {
 	flex-flow: column;
+	justify-content: center!important;
     }
     .obras .obra {
+	margin: auto;
 	width: 200px;
     }
     .obra .texto {
@@ -28,6 +33,15 @@
     }
     .cabecera .ch {
 	display: block;
+    }
+}
+
+@media (max-width:540px){
+    .artistas {
+	margin: 5vw 2vw;
+    }
+    .obras .obra {
+	width: 190px;
     }
 
 }
