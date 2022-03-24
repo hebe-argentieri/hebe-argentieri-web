@@ -1,6 +1,9 @@
 The MIT License (MIT)
 
-Copyright (c) 2021 Carlos Alberto Macheratti (https://github.com/hebe-argentieri).
+
+Copyright (c) 2021 Hebe Argentieri ( https://github.com/hebe-argentieri ).
+Development and programming: Carlos Alberto Macheratti ( https://github.com/caalma ).
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -52,4 +55,3 @@ https://github.com/markedjs/marked/blob/master/LICENSE.md
 
 underscore-min.js
 https://github.com/jashkenas/underscore/blob/master/LICENSE
-
