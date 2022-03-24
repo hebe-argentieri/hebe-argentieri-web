@@ -23,13 +23,17 @@ title: Biografía
 
 Desde 2015 da [clases](#p:clases) en su propio taller.
 
-Integra los colectivos:
+Forma parte de:
 
 <div class="list_inline center">
-    
+
 + [![ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.icon ]]) [[= G.cfg.joyeros_argentinos.name ]]]([[= G.cfg.joyeros_argentinos.url ]])
 + [![ [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.icon ]]) [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.url ]])
+
+<br>
+
 + [![ [[= G.cfg.klimt02.name ]] ]([[= G.cfg.klimt02.icon ]]) [[= G.cfg.klimt02.name ]] ]([[= G.cfg.klimt02.url ]])
++ [![ [[= G.cfg.totoral.name ]] ]([[= G.cfg.totoral.icon ]]) [[= G.cfg.totoral.name ]] ]([[= G.cfg.totoral.url ]])
 
 </div>
 
@@ -38,7 +42,7 @@ Integra los colectivos:
 
 ### Curriculum Vitae
 
-+ [![html](./img/icono-html.svg) Online](#p:cv) 
++ [![html](./img/icono-html.svg) Online](#p:cv)
 + [![pdf](./img/icono-pdf.svg) Imprimible]([[= G.cfg.download.cv_pdf ]])
 
 </div>

@@ -4,7 +4,7 @@
 
 title: Hebe Argentieri
 
-subtitle: 
+subtitle:
   es: Joyería Contemporánea
   en: Art Jewelry
 
@@ -26,15 +26,15 @@ geo:
   country: Argentina
   icon: ./img/icono-geo.svg
 
-email_g: 
+email_g:
   account: hebeargentieri@gmail.com
   icon: ./img/icono-email.svg
 
-email_y: 
+email_y:
   account: hebeargentieri@yahoo.com.ar
   icon: ./img/icono-email.svg
 
-facebook: 
+facebook:
   name: Hebe Argentieri
   url: https://www.facebook.com/hebeargentierijoyeriacontemporanea1/
   icon: ./img/icono-facebook.svg
@@ -60,6 +60,14 @@ caracu:
   url: https://www.instagram.com/caracu.art/
   icon: ./img/icono-caracu.svg
 
+totoral:
+  name: 'Proyecto Totoral'
+  url: https://www.instagram.com/proyectototoral/
+  icon: ./img/icono-totoral.svg
+
+min_cultura:
+  name: 'Ministerio de Cultura Argentina'
+  logo: ./img/min-cultura.svg
 
 # Idioma / Language
 lang_change: false
@@ -86,4 +94,3 @@ gallery:
 
 # Páginas / Pages
 initial_page: 'p:portada'
-

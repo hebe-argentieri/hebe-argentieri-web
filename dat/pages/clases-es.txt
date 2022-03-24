@@ -4,7 +4,7 @@ title: Clases
 
 <div class="lined-block">
 
-# Clases 
+# Clases
 
 </div>
 
@@ -20,25 +20,34 @@ title: Clases
 
 Espacio personal y colectivo, en donde se fraguan el oficio, las poéticas y las emociones.
 
-En el taller acompaño en las búsquedas individuales de lenguajes creativos propios - aprender técnicas, descubrir materiales, explorar para desarrollar piezas de joyería. 
+En el taller acompaño en las búsquedas individuales de lenguajes creativos propios - aprender técnicas, descubrir materiales, explorar para desarrollar piezas de joyería.
 
 <br>
 
 <div class="list_lined">
 
-+ Clases presenciales **(grupos reducidos)** 
++ Clases presenciales **(grupos reducidos)**
 + Clases online
-+ Seminarios intensivos 
++ Seminarios intensivos
 
 </div>
 
 <div class="list_item">
-    
+
 ### CONSULTAS
 +  [![Email]([[= G.cfg.email_g.icon ]]) [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
 +  [![Email]([[= G.cfg.email_y.icon ]]) [[= G.cfg.email_y.account ]] ](mailto:[[= G.cfg.email_y.account ]])
-+ [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])        
-+ [![ [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.icon ]]) [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.url ]])        
++ [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])
++ [![ [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.icon ]]) [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.url ]])
+
+</div>
+
+<div class="text center">
+<br><br>
+
+Este espacio cuenta con el apoyo del **Fondo Desarrollar**.
+
+<img class="center" style="display:inline-block;" width="150" src="[[= G.cfg.min_cultura.logo ]]" alt="[[= G.cfg.min_cultura.name ]]">
 
 </div>
 
