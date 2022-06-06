@@ -5,16 +5,4 @@ title: Eventos
 
 # Eventos
 
-## Destacados
-
-[[= events_list_group_generate('destacado') ]]
-
-
-## Libros
-
-[[= events_list_group_generate('libro') ]]
-
-
-## Lista completa
-
 [[= events_list_generate() ]]
