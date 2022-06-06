@@ -2,7 +2,7 @@
 
 /* global variable */
 var G = {};
-const NO_CACHE = false;
+const NO_CACHE = true;
 
 /* underscore custom settings */
 _.templateSettings = {
