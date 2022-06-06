@@ -1,27 +1,27 @@
 const Template = {};
 
 Template.pages = `
-<ul>[[ _.each(items, function(v){ ]] 
+<ul>[[ _.each(items, function(v){ ]]
   <li><a href="#p:[[= v ]]">[[= title_pages(v) ]]</a></li>
 [[ }); ]]</ul>`;
 
 Template.series = `
-<ul>[[ _.each(items, function(v){ ]] 
+<ul>[[ _.each(items, function(v){ ]]
   <li><a href="#s:[[= v ]]">[[= title_series(v) ]]</a></li>
 [[ }); ]]</ul>`;
 
-Template.news = `
-<ul>[[ _.each(items, function(v){ ]] 
-  <li><a href="#n:[[= v ]]">[[= title_news(v) ]] <small>[[= date_news(v) ]]</small></a></li>
+Template.events = `
+<ul>[[ _.each(items, function(v){ ]]
+  <li><a href="#e:[[= v ]]">[[= title_events(v) ]]</a></li>
 [[ }); ]]</ul>`;
 
 Template.rrss = `
-<ul>[[ _.each(items, function(v){ ]] 
+<ul>[[ _.each(items, function(v){ ]]
   <li><a href="[[= G.cfg[v].url ]]" target="_blank" title="[[= G.cfg[v].name ]]"><img alt="[[= G.cfg[v].name ]]" src="[[= G.cfg[v].icon ]]"></a></li>
 [[ }); ]]</ul>`;
 
 Template.series_gallery_item = `
-<section class="galery">
+<section class="gallery">
   <h2>[[= v['title-'+G.lang] ]]</h2>
   <div class="description">[[= marked(v['description-'+G.lang]) ]]</div>
   <ul class="mini">
@@ -32,7 +32,7 @@ Template.series_gallery_item = `
       ]]
       <li class="itm">
         <img src="[[= w.img ]]" title="[[= w._title ]]">
-      </li> 
+      </li>
     [[ } }) ]]
     [[ if( v.images.length > G.cfg.gallery.mini_max ){ ]]
       <li class="itm more">[[= v['images'].length - G.cfg.gallery.mini_max ]]</li>
@@ -57,23 +57,58 @@ Template.gallery_panel = `
   </div>
 </div>`;
 
-Template.news_gallery_item = `
-<section>
-  <h2>[[= v['title'] ]]</h2>
-  <p><i>[[= v['date'] ]]</i></p>
-  <div class="cnt">
-    [[= t ]]
+
+Template.events_item = `
+<section class="event">
+  <script name="data" type="text/json">[[= JSON.stringify(v) ]]</script>
+  <div class="image"><img src="./img/events/[[= v['images'][0] ]]"></div>
+  <div class="text">
+    <h2>[[= v['title-'+G.lang] ]]</h2>
+    <div>
+      <b class="btn more">+</b>
+      <i class="date">[[= v['date'] ]]</i>
+    </div>
   </div>
 </section>`;
 
-Template.press_gallery_item = `
-<section>
-  <h2>[[= v['title'] ]]</h2>
-  <p><i>[[= v['date'] ]]</i></p>
-  <div class="cnt">
-    [[= t ]]
-  </div>
+Template.events_grp_item = `
+<section class="event">
+  <script name="data" type="text/json">[[= JSON.stringify(v) ]]</script>
+  <div class="btn more"><b>+</b> [[= v['title-'+G.lang] ]]</div>
 </section>`;
+
+Template.events_panel = `
+<div id="events_panel">
+  <div class="cnt">
+    <nav>
+      <b class="type">EVENTO:  [[= v['type'] ]]</b>
+      <strong class="date">[[= v['date'] ]]</strong>
+      -
+      <button name="close"></button>
+    </nav>
+    <div class="text">
+      <h2>[[= v['title-'+G.lang] ]]</h2>
+      <div>
+	<div>[[= v['text-'+G.lang] || '' ]]</div>
+	<br>
+      </div>
+    </div>
+    <div class="links">
+      <strong>Enlaces</strong>
+      <ul>
+	[[ for(var link of v.urls) {]]
+	<li><a href="[[= link[3] ]]" target="_blank"><img src="./img/icon/[[= link[0] ]].png" alt="[[= link[1] ]]">[[= link[2] ]]</a></li>
+	[[ } ]]
+      </ul>
+    </div>
+    <div class="images">
+      [[ for(var img of v.images ){ ]]
+      <img src="./img/events/[[= img ]]">
+      [[ } ]]
+    </div>
+  </div>
+</div>`;
+
 
 Template.html_slide = `
 <div id="[[= id ]]" class="slide">

@@ -1,0 +1,32 @@
+---
+
+date: '2022'
+
+title-es: 'Neoartesanias'
+
+images-url:
+  - [img1, "https://sentiargentina.com/wp-content/uploads/2022/03/Exposicion-Neoartesanias.jpg"]
+
+images:
+  - neoartesanias_gace.jpg
+  - neoartesanias_expo1.jpg
+
+urls:
+  - [ciudadweb, ciudadweb.com.ar, Gacetilla, "https://www.ciudadweb.com.ar/se-realizara-la-exposicion-de-neoartesanias-en-palermo/"]
+  - [buenosaires, buenosaires.gob.ar, Gacetilla, "https://www.buenosaires.gob.ar/museos/museo-de-arte-popular-jose-hernandez/exposiciones/neoartesanias"]
+  - [sentiargentina, sentiargentina.com, Prensa, "https://sentiargentina.com/organizada-por-el-ministerio-de-cultura-de-la-ciudad-de-buenos-aires-el-sabado-19-y-domingo-20-de-marzo-fiesta-de-neoartesanias-en-el-dia-de-las-y-los-artesanos-en-el-museo-de-arte-popular-jose-her/"]
+  - [youtube, youtube.com, MAP Participantes, "https://youtu.be/n5-rsKFkOG0"]
+  - [facebook, facebook.com, Fotos de la exposición, "https://www.facebook.com/MuseodeArtePopularJoseHernandez/posts/10158949098981728"]
+
+text-es: |
+  El Museo de Arte Popular José Hernández (MAP), ubicado en la Avenida Del Libertador 2373 del barrio
+  porteño de Palermo, presentará este sábado 19 y domingo 20 de marzo de 13 a 20 horas, la exposición
+  “Neoartesanias, Saberes Ancestrales, y Creaciones Innovadoras 2022”.  Creaciones innovadoras donde
+  se pueden ver piezas atravesadas por el concepto de neortesanías, es decir obras que recuperan los
+  saberes artesanales ancestrales de producción con procesos o elementos innovadores.
+
+type: exhibición
+
+groups: []
+
+tags: []

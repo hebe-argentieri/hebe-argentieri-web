@@ -1,0 +1,30 @@
+---
+
+date: '2017'
+
+title-es: 'LOOT: MAD About Jewelry 2017'
+
+images-url:
+  - [img1, "https://madmuseum.org/sites/default/files/styles/5_x_3/public/2017/01/LOOT_2016_LOGO_LADIES_04_0.jpg"]
+
+images:
+  - mad_about_jewelry_logo.jpg
+  - mad_about_jewelry_pieza_1.jpg
+  - mad_about_jewelry_pieza_2.jpg
+  - mad_about_jewelry_expo1.jpg
+  - mad_about_jewelry_expo2.jpg
+  - mad_about_jewelry_expo3.jpg
+
+urls:
+  - [madmuseum, madmuseum.org, Gacetilla, "https://madmuseum.org/jewelry/mad-about-jewelry-2017"]
+  - [vimeo, vimeo.com, Participantes, "https://vimeo.com/206288783?1&ref=fb-share&fbclid=IwAR3jXw4NRnAfhiCSzN99gw8emcQnoJZOYFQGrBUJgJI0tMpi72hVZWh_JxE"]
+  - [youtube, youtube.com, Reseña, "https://www.youtube.com/watch?v=pTUW0As2ZbU&ab_channel=MuseumofArtsandDesign%28MAD%29"]
+
+text-es: |
+  4-8 April 2017, Museum of Arts and Design (MAD), NY USA. Annual exhibition and sale of contemporary art jewelry.
+
+type: exhibición
+
+groups: [destacado]
+
+tags: []

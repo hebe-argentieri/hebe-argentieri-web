@@ -82,10 +82,9 @@ download:
 
 # Rutas / Paths
 path:
-  news: ./dat/news/
   pages: ./dat/pages/
   series: ./dat/series/
-  press: ./dat/press/
+  events: ./dat/events/
 
 # Galeria / Gallery
 gallery:

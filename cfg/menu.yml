@@ -5,9 +5,11 @@ pages:
   - biografia
   - series
   - clases
+  - eventos
   - contacto
 
-series: 
+series:
+  - mestizadas
   - que_nada_nos_defina
   - mares_verdes
   - corazon_silencioso
@@ -15,8 +17,35 @@ series:
   - terra
   - genesis
 
-news: []
-#  - 2021-02-01_test
-
-press: []
-#  - 2017_test
+events:
+  - 2022-3
+  - 2022-2
+  - 2022-1
+  - 2021-7
+  - 2021-6
+  - 2021-5
+  - 2021-4
+  - 2021-3
+  - 2021-2
+  - 2021-1
+  - 2020-3
+  - 2020-2
+  - 2020-1
+  - 2019-3
+  - 2019-2
+  - 2019-1
+  - 2018-8
+  - 2018-7
+  - 2018-6
+  - 2018-5
+  - 2018-4
+  - 2018-3
+  - 2018-2
+  - 2018-1
+  - 2017-3
+  - 2017-2
+  - 2017-1
+  - 2016-3
+  - 2016-2
+  - 2016-1
+  - 2015-1

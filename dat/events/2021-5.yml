@@ -1,0 +1,33 @@
+---
+
+date: '2021'
+
+title-es: 'Discurrires Inadvertidos'
+images-url:
+  - [img1, "https://hebeargentieri.com.ar/muestra/discurrires_inadvertidos/img/cabecera-gr.jpg"]
+
+images:
+  - discurrires_inadvertidos_logo.jpg
+  - discurrires_inadvertidos_expo1.jpg
+
+urls:
+  - [labienal, labienal.ar, Exposición, "https://labienal.ar/exposicion-21"]
+  - [joyerosargentinos, joyeros-argentinos.com.ar, Gacetilla, "https://www.joyeros-argentinos.com.ar/discurrires-inadvertidos/"]
+  - [klimt02, klimt02.net, Gacetilla, "https://klimt02.net/events/exhibitions/discurrires-inadvertidos-tono-local-galeri-de-arte"]
+  - [diariodemocracia, diariodemocracia.com, Prensa, "https://www.diariodemocracia.com/locales/junin/249484-discurrir-es-inadvertido-s-tono-local/"]
+  - [laverdadonline, laverdadonline.com, Prensa, "https://laverdadonline.com/discurrires-inadvertidos-en-galeria-tono-local/"]
+  - [hebeargentieri, hebeargentieri.com.ar, Catálogo virtual, "https://hebeargentieri.com.ar/muestra/discurrires_inadvertidos/"]
+  - [facebook, facebook.com, Fotos de la Exposición, "https://www.facebook.com/permalink.php?story_fbid=3717511631807527&id=1933398800218828"]
+  - [youtube, youtube.com, Inauguración, "https://www.youtube.com/watch?v=mKZKg6zeajQ"]
+  - [youtube, youtube.com, Laguna de Gomez, "https://youtu.be/Qj1SV1X1jWE"]
+  - [youtube, youtube.com, Tono Local, "https://youtu.be/fVi4ch1utI8"]
+  - [youtube, youtube.com, Prensa, "https://www.youtube.com/watch?v=DwQawj25T3U&ab_channel=PrensaGobiernodeJun%C3%ADn"]
+
+text-es: |
+  6 al 30 Octubre 2021, Tono Local. Junín. Exposición simultánea de la III Bienal Latinoamericana de Joyería Contemporánea. Taller Hebe Argentieri e invitadas.
+
+type: exhibición
+
+groups: [destacado]
+
+tags: []

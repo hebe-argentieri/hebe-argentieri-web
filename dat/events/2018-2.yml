@@ -1,0 +1,33 @@
+---
+
+date: '2018'
+
+title-es: 'Travesias'
+
+images-url:
+  - [img1, "https://i0.wp.com/www.joyeros-argentinos.com.ar/wp-content/uploads/2018/09/travesi%CC%81asb.jpg"]
+  - [img2, "https://i0.wp.com/www.joyeros-argentinos.com.ar/wp-content/uploads/2019/10/Travesias1.jpg"]
+
+images:
+  - travesias_gace.jpg
+  - travesias_charla_gace.jpg
+  - travesias_expo1.jpg
+  - travesias_expo2.jpg
+
+urls:
+  - [hebeargentieri, hebe-argentieri, Historial virtual, "https://hebe-argentieri.github.io/recorrido_por_la_joyeria_contemporanea_argentina/"]
+  - [facebook, facebook.com, video charla, "https://www.facebook.com/watch/live/?ref=watch_permalink&v=726037894956829"]
+  - [joyerosargentinos, joyeros-argentinos.com.ar, Gacetilla Junín, "https://www.joyeros-argentinos.com.ar/bienal-2018-hoy-inaugura-travesias-en-junin/"]
+  - [joyerosargentinos, joyeros-argentinos.com.ar, Gacetilla Mercedes, "https://www.joyeros-argentinos.com.ar/travesias-en-mercedes-itinerancia-de-la-expo-de-joyeria-argentina/"]
+  - [facebook, facebook.com, Fotos de la exposición en Mercedes, "https://www.facebook.com/hebeargentierijoyeriacontemporanea1/posts/3048059082086122?comment_id=3048845998674097"]
+  - [facebook, facebook.com, Fotos de la exposición en Junín, "https://www.facebook.com/permalink.php?story_fbid=2698019990423368&id=1933398800218828"]
+  - [hoymercedes, hoymercedes.com.ar, Prensa, "https://www.hoymercedes.com.ar/principal/2019/11/19/travesias-a-la-historia-de-la-joyeria-en-el-mamm/"]
+
+text-es: |
+  ...
+
+type: exhibición
+
+groups: [destacado]
+
+tags: []

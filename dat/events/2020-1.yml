@@ -1,0 +1,22 @@
+---
+
+date: '2020'
+
+title-es: 'New Bracelets'
+
+images-url: []
+
+images:
+  - new_bracelets_tapa.jpg
+
+urls:
+  - [klimt02, klimt02.net, Reseña, "https://klimt02.net/publications/books/new-bracelets-400-contemporary-jewelry-designs-promopress"]
+
+text-es: |
+  New Bracelets, curated by Nicolas Estrada and published by Promopress. After a big work of selection only 200 artists from all over the world have been chosen to appear in the book.
+
+type: publicación
+
+groups: [libro]
+
+tags: [libro]
