@@ -451,7 +451,7 @@ function events_list_group_generate(grp) {
 
 function html_slide( images ) {
     let interval, slide, image, menu, btns,
-	i = 0;
+	j, i = 0;
 
     const dat = { id: 'slide-' + Date.now(), images: images},
           ac = 'actual';
@@ -471,8 +471,8 @@ function html_slide( images ) {
 	image = slide.find( '.image img.front' ).eq( 0 );
 	interval = setInterval( show_image, 5000 );
 	menu = slide.find( 'ul' ).eq( 0 );
-	for ( i in _.range( 0, images.length ) ) {
-	    menu.append( `<li data-idx="${i}"></li>` );
+	for ( j in _.range( 0, images.length ) ) {
+	    menu.append( `<li data-idx="${j}"></li>` );
 	}
 	btns = menu.find( 'li' );
 	btns.on({
