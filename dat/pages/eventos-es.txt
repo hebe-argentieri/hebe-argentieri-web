@@ -1,8 +1,0 @@
----
-title: Eventos
-
----
-
-# Eventos
-
-[[= events_list_generate() ]]

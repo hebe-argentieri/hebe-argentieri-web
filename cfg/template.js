@@ -61,7 +61,7 @@ Template.gallery_panel = `
 Template.events_item = `
 <section class="event">
   <script name="data" type="text/json">[[= JSON.stringify(v) ]]</script>
-  <div class="image"><img src="./img/events/[[= v['images'][0] ]]"></div>
+  <div class="image"><img src="./img/events/[[= v['images'][0] + no_cache() ]]"></div>
   <div class="text">
     <h2>[[= v['title'] ]]</h2>
     <div>
@@ -102,7 +102,7 @@ Template.events_panel = `
     </div>
     <div class="images">
       [[ for(var img of v.images ){ ]]
-      <img src="./img/events/[[= img ]]">
+      <img src="./img/events/[[= img + no_cache() ]]">
       [[ } ]]
     </div>
   </div>

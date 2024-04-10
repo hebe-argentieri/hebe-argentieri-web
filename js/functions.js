@@ -133,7 +133,7 @@ function header_generate() {
     G.logo = $( '#logo' );
     G.logo.attr({
 	    title: G.cfg.title,
-	    src: G.cfg.logo_normal[ G.lang ]
+	    src: G.cfg.logo_normal[ G.lang ] + no_cache()
     });
     $( '#subtitle' ).html(
 	    G.cfg.subtitle[ G.lang ]
@@ -181,7 +181,7 @@ function menus_generate( v ) {
 	    if ( st > maxScrollTop ) {
 	        menu_sticky( true );
 	        if( is_mobile() ) {
-		        G.logo.attr( 'src', G.cfg.logo_small );
+		        G.logo.attr( 'src', G.cfg.logo_small + no_cache() );
 	        }
 	    } else {
 	        menu_sticky( false );
