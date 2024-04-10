@@ -63,7 +63,7 @@ Template.events_item = `
   <script name="data" type="text/json">[[= JSON.stringify(v) ]]</script>
   <div class="image"><img src="./img/events/[[= v['images'][0] ]]"></div>
   <div class="text">
-    <h2>[[= v['title-'+G.lang] ]]</h2>
+    <h2>[[= v['title'] ]]</h2>
     <div>
       <b class="btn more">+</b>
       <i class="date">[[= v['date'] ]]</i>
@@ -74,7 +74,7 @@ Template.events_item = `
 Template.events_grp_item = `
 <section class="event">
   <script name="data" type="text/json">[[= JSON.stringify(v) ]]</script>
-  <div class="btn more"><b>+</b> [[= v['title-'+G.lang] ]]</div>
+  <div class="btn more"><b>+</b> [[= v['title'] ]]</div>
 </section>`;
 
 Template.events_panel = `
@@ -83,13 +83,12 @@ Template.events_panel = `
     <nav>
       <b class="type">EVENTO:  [[= v['type'] ]]</b>
       <strong class="date">[[= v['date'] ]]</strong>
-      -
       <button name="close"></button>
     </nav>
     <div class="text">
-      <h2>[[= v['title-'+G.lang] ]]</h2>
+      <h2>[[= v['title'] ]]</h2>
       <div>
-	<div>[[= v['text-'+G.lang] || '' ]]</div>
+	<div>[[= v['text'] || '' ]]</div>
 	<br>
       </div>
     </div>

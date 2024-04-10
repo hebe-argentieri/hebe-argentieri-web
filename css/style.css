@@ -189,10 +189,18 @@ select#page_lang {
 .list_lined li {
     padding: 10px;
     margin: 8px auto;
-    border-radius: 3px;
     border-top: 1px solid #bbb;
     border-left: 2px solid #ccc;
 }
+
+.list_compact li {
+    margin: 8px auto;
+    border-radius: 3px;
+    border: none;
+    padding-left: 10px;
+    border-left: 2px solid #ccc;
+}
+
 
 .list_item li {
     padding: 10px;
@@ -634,4 +642,13 @@ select#page_lang {
 #events_panel .images img {
     margin: 10px;
     max-width: 90%;
+}
+
+#page_lang {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 0.9em;
+    border: 10px solid rgba(0,0,0,0.5);
+    background: #00f;
 }

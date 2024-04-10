@@ -1,0 +1,8 @@
+---
+title: Obra
+
+---
+
+# Obra
+
+[[= series_list_generate() ]]

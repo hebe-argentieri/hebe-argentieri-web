@@ -1,17 +1,25 @@
 ---
 
 title-es: Corazón silencioso
+title-en: Silent Heart
 
 description-es: |
   *Para que las palabras no basten es preciso alguna muerte en el corazón.* Alejandra Pizarnik
-    
-images:    
+
+description-en: |
+  *Words are not enough only when something dies in our heart*
+  Alejandra Pizarnik
+
+images:
   -
     img: ./img/series/corazon_silencioso/01.jpg
     tex-es: Corazón Silencioso. Ph Damián Wasser
+    tex-en: Silent Heart. Ph Damián Wasser
   -
     img: ./img/series/corazon_silencioso/02.jpg
     tex-es: Words Dont Come´Easy. Ph Damián Wasser
+    tex-en: Words Dont Come´Easy. Ph Damián Wasser
   -
     img: ./img/series/corazon_silencioso/03.jpg
     tex-es: Estela, espuma, nada... Ph Damián Wasser
+    tex-en: Estela, espuma, nada... Ph Damián Wasser

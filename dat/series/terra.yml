@@ -1,67 +1,28 @@
 ---
 
 title-es: Terra
+title-en: Terra
+
 description-es: |
   *Tierras antes fértiles se van volviendo negras y vacías dando frutos de dolor.*
-    
+
+description-en: |
+  *Fields which were once fertile have turned black and void bearing fruits of blood.*
+
 images:
   -
     img: ./img/series/terra/01.jpg
     tex-es: Terra I. Ph Damián Wasser
+    tex-en: Terra I. Ph Damián Wasser
   -
     img: ./img/series/terra/02.jpg
     tex-es: Terra II. Ph Damián Wasser
+    tex-en: Terra II. Ph Damián Wasser
   -
     img: ./img/series/terra/03.jpg
     tex-es: Terra III. Ph Damián Wasser
+    tex-en: Terra III. Ph Damián Wasser
   -
     img: ./img/series/terra/04.jpg
     tex-es: Terra IV. Ph Damián Wasser
-
-#    -
-#        img: ./img/series/terra/mg_9111.jpg
-#        tex-es: Alpaca y cobre oxidados, plástico de tubos de ensayo. Ph Damián Wasser
-#    
-#    -
-#        img: ./img/series/terra/mg_9122.jpg
-#        tex-es: Alpaca y cobre oxidados, plástico de tubos de ensayo. Ph Damián Wasser
-#    
-#    -
-#        img: ./img/series/terra/mg_9087.jpg
-#        tex-es: Alpaca oxidada, plástico de tubos de ensayo. Ph Damián Wasser
-#
-#    -
-#        img: ./img/series/terra/mg_1536.jpg
-#        tex-es: Alpaca oxidada, plástico de tubos de ensayo. Ph Damián Wasser
-#
-#    -
-#        img: ./img/series/terra/celestinaqua1_1.jpg
-#        tex-es: Alpaca oxidada, plástico de tubos de ensayo. Ph Damián Wasser
-#
-#    -    
-#        img: ./img/series/terra/mg_1525.jpg
-#
-#    -    
-#        img: ./img/series/terra/mg_2304.jpg
-#
-#    -    
-#        img: ./img/series/terra/mg_2336.jpg
-#
-#    -    
-#        img: ./img/series/terra/mg_2295.jpg
-#
-#    -    
-#        img: ./img/series/terra/mg_5511.jpg
-#
-#    -    
-#        img: ./img/series/terra/mg_5521.jpg
-#
-#    -    
-#        img: ./img/series/terra/mg_2272.jpg
-#
-#    -    
-#        img: ./img/series/terra/mg_5516.jpg
-#
-#    -    
-#        img: ./img/series/terra/mg_5520.jpg
-#
+    tex-en: Terra IV. Ph Damián Wasser

@@ -1,20 +1,28 @@
 ---
 
 title-es: Mestizadas
+title-en: Mestiza
 
 description-es: |
   Exploración de las distintas dimensiones de la mujer latinoamericana: ancestral, europeizada, conquistada, arrasada, combativa, nutriente ...
+
+description-en: |
+  Exploring the many aspects of Latin American women: ancestral, conquered, devastated, defiant, nourishing ...
 
 images:
   -
     img: ./img/series/mestizadas/01.jpg
     tex-es: Mestizadas. Ph Emmanuel Borao
+    tex-en: Mestiza. Ph Emmanuel Borao
   -
     img: ./img/series/mestizadas/02.jpg
     tex-es: Mestizadas. Ph Emmanuel Borao
+    tex-en: Mestiza. Ph Emmanuel Borao
   -
     img: ./img/series/mestizadas/03.jpg
     tex-es: Mestizadas. Ph Emmanuel Borao
+    tex-en: Mestiza. Ph Emmanuel Borao
   -
     img: ./img/series/mestizadas/04.jpg
     tex-es: Mestizadas. Ph Emmanuel Borao
+    tex-en: Mestiza. Ph Emmanuel Borao

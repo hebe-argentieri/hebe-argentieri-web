@@ -1,0 +1,15 @@
+---
+title: Home
+---
+
+[[= html_slide([
+    './img/pages/home/0.jpg',
+    './img/pages/home/1.jpg',
+    ])
+]]
+
+<div class="manifest">
+
+Materiality in my work is related to my narrative and subjected to it. Horn and brooms, repurposed plastic and textiles, wood and metal reveal circumstances, emotions, situations in my surrounding world and question them.
+
+</div>

@@ -1,0 +1,51 @@
+---
+title: Classes
+---
+
+<div class="lined-block">
+
+# Clases
+
+</div>
+
+<div class="columns">
+
+<div class="img flex_col fc_1d3 mobile">
+
+![Taller](./img/pages/taller_1-gris.jpg)
+
+</div>
+
+<div class="text">
+
+
+Personal and private space where craft, poetics and emotions come in play.
+
+At my studio I guide participants’ individual search of their creative language by learning techniques, and exploring materials to develop jewelry pieces.
+
+
+Interview in ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escuela-de-hebe-argentieri/)
+
+<br>
+
+<div class="list_lined">
+
++ Classes at my studio and online
++ Intensive workshops
+
+
+</div>
+
+<div class="list_item">
+
+### CONTACT
++  [![Email]([[= G.cfg.email_g.icon ]]) [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
++  [![Email]([[= G.cfg.email_y.icon ]]) [[= G.cfg.email_y.account ]] ](mailto:[[= G.cfg.email_y.account ]])
++ [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])
++ [![ [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.icon ]]) [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.url ]])
+
+</div>
+
+</div>
+
+</div>

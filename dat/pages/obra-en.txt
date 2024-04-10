@@ -1,0 +1,8 @@
+---
+title: Works
+
+---
+
+# Works
+
+[[= series_list_generate() ]]

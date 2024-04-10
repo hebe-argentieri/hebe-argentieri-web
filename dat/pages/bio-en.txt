@@ -1,0 +1,151 @@
+---
+title: Bio
+---
+
+<div class="lined-block">
+
+# Bio
+
+</div>
+
+<div class="columns">
+
+<div class="img flex_col fc_1d3 mobile">
+
+![Hebe Argentieri](./img/pages/hebe_argentieri_1-gris.jpg)
+
+</div>
+
+<div class="text">
+
+**Hebe Argentieri** is a jewelry artist based in Junín, Argentina whose work results from the influence of territory and the exploration of materials.
+
+She is part of the collectives [ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.url ]]), [ [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.url ]]), Km0, [ [[= G.cfg.totoral.name ]] ]([[= G.cfg.totoral.url ]]).
+
+Since 2015 she has taught jewelry design at her own studio as well as online seminars.
+
+She received the Creation Grant from the National Endowment for the Arts to develop her work on biomaterials.
+
+<br><br>
+
+<div class="text list_compact no_padding_top_first_h2">
+
+### WORKSHOPS AND SEMINARS
+
+#### 2024
++ 2024. Virtual workshop on mycelium - mushroom biomaterials. Ana Laura Cantera
+
+#### 2023
++ Mechanic connections in jewelry making, Chris Kiseno
++ Biomaterial Lab, MediaLab CCBA- Ana Laura Cantera
++ (2023-2022) Textile practices, Silvina Romero
++ Art, Territory and  Technology in the Southern Cone, Círculo de Estudio UNSAM
+
+#### 2022
++ Seminar on biomaterials, FCEDU-UNER
+
+#### 2021
++ Culture, Art and Gender, Flacsovirtual,
++ Uses of resin, Paula Botto Fiora
+
+#### 2020
++  iomaterials, Ana Laura Cantera
++ (2020-2008) Contemporary Jewelry design, Mabel Pena
+
+#### 2019-2017
++ De lo plástico a lo visual. Jorge Manilla
+
+#### 2014
++ Japanese Lacquer, Francine Schloeth
+
+#### 2013
++ Lost Wax Cast, Antonio Pujía
++ Paper Jewelry; Luis Acosta
+
+
+### PUBLICATIONS
++ 2022 Proof of Existence, MAWA Magazine
++ 2020 Bracelets, Nicolás Estrada, Promopress
++ 2017 Narrative Jewelry, Schiffer Publishing
++ 2015 The Contemporary Jewelry Exchange
+
+
+### GROUP EXHIBITIONS
+
+**Gestión y organización** de la exposición Travesías en el marco de la II Bienal Latinoamericana de Joyería Contemporánea en 847, Estación de Arte, Junín, y Museo de Arte Mercedes, Argentina
+
+
+#### 2023
++ An Endless Road-40 years of democracy, Museo Histórico Sarmiento BsAs
++ Missing Memories, Lille/Munich/Valencia
++ Revolution, Snagmetalsmith online exhibition
++ Other Narratives, Museo Evita Los Toldos
+
+#### 2022
++ Bringing the River, Proyecto Totoral, CCKN, Chivilcoy
++ Desde el taller, Sarmiento History Museum
+
+#### 2021
++ Abran cancha, III Latin American Biennial of Contemporary Jewelry
++ What is Left Unsaid, Collective Caracú, UADEart Buenos Aires
++ Mesas de Trabajo, CC El Obrador, Buenos Aires
++ Valor agregado, Anillaco, La Rioja
++ Mesas de Trabajo, CC El Obrador, Buenos Aires
+
+#### 2020
++ Desde el taller, Joyeros Argentinos online
++ 9March Project, Moscow/ Fashion Week, St Petersburg Russia
++ 7Artistsfor7Days, Galería Mydaybyday Rome, Italy
++ Growth and Evolution, Fashion and design Institute, Beijing, China
+
+#### 2019
++ Heart Failure, Athens Jewelry Week, Greece/ Schmuck Munich Jewelry Week, Germany
++ Collectiva Meeting, Oporto, Portugal
+
+#### 2018
++ Heart Failure, Alliages, Lille, France
++ Nosotras, Galería Bs As Sur, Buenos Aires, Argentina
++ Vecinos, II Latin American Biennial of Contemporary Jewelry MAP, Argentina
++ Huella, De la Mano, Colombia
++ Chaos, Alliages, Lille, Francia
++ NOD On Full Volume at Alliages, Lille, Francia
+
+#### 2017
++ LOOT, Mad about Jewelry. Design and Art Museum. New York, USA
++ Paradise (Lost), Alliages, Lille, France
+
+#### 2016
++ I Latin American Biennial of Contemporary Jewelry, Museo José Hernández, Buenos Aires
++ Mujeres, Art Gallery Buenos Aires Sur, Buenos Aires
++ The Permanent,  Alliages , Lille, France
++ 40 Años-Arte, Memoria, Futuro. Joyeros Argentinos Online exhibition
++ Salón de la Creatividad y Diseño Artesanal, Berazategui
++ National Craft Contest , National Endowment for the Arts
+
+#### 2015
++ A Dark Spark of Light, Alliages, - Lille, Francia
+
+#### 2014
++ 2014 1ra Mention Metal, National Endowment for the Arts
+
+#### 2013
++ 2013 Pending  Issue Tema Pendiente- Recycled materials exhibition
+
+#### 2012/2011/2010 Collective km0
++ Museo de la Mujer, Buenos Aires, Galería Arte y Parte, Buenos Aires,Centro Favio Virla, Universidad Nacional de Tucumán Museo de Arte, Gral Pringles, Centro de Arte Isidoro, Cnel Suárez Museo y Archivos, Laprida
+
+
+### CURATOR AND ORGANIZER OF THE EXHIBITIONS
+
+#### 2018
++ Travesías 847, Estación de Arte, Junín/ Art Museum Mercedes, II Latin American Biennial of Contemporary Jewellery.
+
+#### 2021
++ Discurri(es) inadvertido(s) Studio Hebe Argentieri and guests, TonoLocal, Junín III Latin American Biennial of Contemporary Jewellery.
+
+
+</div>
+
+</div>
+
+</div>

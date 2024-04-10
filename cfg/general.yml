@@ -16,7 +16,9 @@ copyright:
 meta_description: Hebe Argentieri. Joyería Contemporánea. Art Jewelry. Argentina.
 url: 'https://hebeargentieri.com.ar'
 logo_share: './img/logo_share.png'
-logo_normal: ./img/ha_logo.svg
+logo_normal:
+  es: ./img/ha_logo-es.svg
+  en: ./img/ha_logo-en.svg
 logo_small: ./img/ha_iso.svg
 
 
@@ -70,7 +72,7 @@ min_cultura:
   logo: ./img/min-cultura.svg
 
 # Idioma / Language
-lang_change: false
+lang_change: true
 lang_default: es
 lang_available: { es: Español, en: English }
 
@@ -92,4 +94,4 @@ gallery:
   mini_max: 4
 
 # Páginas / Pages
-initial_page: 'p:portada'
+initial_page: 'p:inicio'

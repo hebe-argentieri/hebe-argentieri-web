@@ -1,0 +1,154 @@
+---
+title: Bio
+---
+
+<div class="lined-block">
+
+# Bio
+
+</div>
+
+<div class="columns">
+
+<div class="img flex_col fc_1d3 mobile">
+
+![Hebe Argentieri](./img/pages/hebe_argentieri_1-gris.jpg)
+
+</div>
+
+<div class="text">
+
+
+**Hebe Argentieri** artista joyera radicada en Junín, Argentina trabaja desarrollando piezas portables que exploran su relación con el territorio. Los materiales son parte central de su discurso.
+
+Desde 2015 da [clases](#p:clases) en su propio taller.
+
+Forma parte de: [ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.url ]]), [ [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.url ]]), Km0, [ [[= G.cfg.totoral.name ]] ]([[= G.cfg.totoral.url ]]).
+
+Desde 2015 da clases presenciales en su propio taller así como seminarios y talleres online.
+
+Recibió Beca Creación del Fondo Nacional de las Artes para el desarrollo del proyecto sobre biomateriales.
+
+
+<br><br>
+
+<div class="text list_compact no_padding_top_first_h2">
+
+### TALLERES Y SEMINARIOS
+
+#### 2024
++ Abril. Taller virtual de micelio-biomateriales de hongo. Ana Laura Cantera.
+
+#### 2023
++ Ensambles mecánicos aplicados a la joyería, Chris Kiseno
++ Laboratorio biomaterial de intersecciones, MediaLab CCBA- Ana Laura Cantera
++ (2023-2022) Prácticas textiles, Silvina Romero
++ Arte, Territorio y Tecnología en el Cono Sur, Círculo de Estudio UNSAM
+
+#### 2022
++ Seminario sobre biomateriales, FCEDU-UNER
+
+#### 2021
++ Cultura, Arte y Género, Flacsovirtual,
++ Usos de la resina, Paula Botto Fiora
+
+#### 2020
++ Biomateriales, Ana Laura Cantera
++ (2020-2008) Taller km0 Mabel Pena
+
+#### 2019-2017
++ De lo plástico a lo visual. Jorge Manilla
+
+#### 2014
++ Laca Japonesa,  Francine Schloeth
+
+#### 2013
++ Seminario de cera perdida, Maestro Antonio Pujía
++ Taller de Diseño de Joyas en Papel,  Luis Acosta
+
+### PUBLICACIONES
++ 2022 Proof of Existence, Revista MAWA
++ 2020 Brazaletes, Nicolás Estrada, Promopress
++ 2017 Narrative Jewelry, Schiffer Publishing
++ 2015 The Contemporary Jewelry Exchange
+
+### EXHIBICIONES (selección)
+
+#### 2023
++ Un Camino Infinito-40 años de democracia, Museo Histórico Sarmiento BsAs
++ Missing Memories, Lille/Munich/Valencia/Barcelona
++ Revolution, exposición virtual Snagmetalsmith
++ Otras Narrativas, Museo Evita Los Toldos
+
+#### 2022
++ Traer el Río, Proyecto Totoral, CCKN, Chivilcoy
+
+#### 2021
++ Abran cancha, Concurso la II Bienal Latinoamericana de Joyería Contemporánea
++ Las cosas que no se nombran, Colectivo Caracú, UADEart Buenos Aires
++ Mesas de Trabajo, CC El Obrador, Buenos Aires
+
+#### 2020
++ Desde el taller, Joyeros Argentinos online
++ 9March Project, Moscú/ Semana de la Moda San Petersburgo,Rusia
++ 7Artistsfor7Days, Galería Mydaybyday Roma, Italia
++ Growth and Evolution, Instituto de Moda y Diseño, Pekín, China
+
+#### 2019
++ Heart Failure, Athens Jewelry Week, Atenas, Grecia/ Schmuck Munich Jewelry Week, Munich, Alemania
++ Collectiva Meeting, Oporto, Portugal
+
+#### 2018
++ Heart Failure, Alliages, Lille, Francia
++ Nosotras, Galería Bs As Sur, Buenos Aires, Argentina
++ Vecinos, II Bienal Latinomericana de Joyería Contemporánea, MAP, Argentina
++ Huella, De la Mano, Colombia
++ Chaos, Alliages, Lille, Francia
++ NOD On Full Volume at Alliages, Lille, Francia
+
+#### 2017
++ LOOT, Mad about Jewelry. Museo de Arte y Diseño. New York, USA
++ Paradise (Lost), Alliages, Lille, Francia
+
+#### 2016
++ Bienal Latinoamericana de Joyería Contemporánea, Museo José Hernández, Buenos Aires
++ Mujeres, Galería de Arte Buenos Aires Sur, Buenos Aires
++ The Permanent,  Alliages , Lille, Francia
++ 40 Años-Arte, Memoria, Futuro. Muestra online de Joyeros Argentinos
++ Salón de la Creatividad y Diseño Artesanal, Berazategui
++ Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
+
+#### 2015
++ A Dark Spark of Light, Alliages, - Lille, Francia
++ The Contemporary Jewelry Exchange
++ Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
++ Salón de la Creatividad y Diseño Artesanal, Berazategui
+
+#### 2014
++ **1° Mención categoría Metal, Concurso Nacional de Artesanías**, Fondo Nacional de las Artes, Buenos Aires
+
+#### 2013
++ **Concurso Nacional de Artesanías**, Fondo Nacional de las Artes, Buenos Aires
++ **Tema Pendiente** - Joyería Contemporánea con Materiales Reciclados, Buenos Aires
+
+#### 2012
++ **Colectivo Transformándonos Ciclos**. Museo de la Mujer, Buenos Aires
+
+#### 2010
++ **Colectivo Transformándonos Agua, Aire, Tierra, Fuego**. Galería Arte y Parte, Buenos Aires,Centro Favio Virla, Universidad Nacional de Tucumán 2011 Museo de Arte, Gral Pringles, Centro de Arte Isidoro, Cnel Suárez Museo y Archivos, Laprida
+
+
+### CURADURÍA Y ORGANIZACIÓN DE EXHIBICIONES
+
+#### 2018
++ Travesías 847, Estación de Arte, Junín/ Museo de Arte de Mercedes, II Bienal Latinoamericana de Joyería Contemporánea.
+
+#### 2021
++ Discurri(es) inadvertido(s) Studio Hebe Argentieri and guests, TonoLocal, Junín III Bienal Latinoamericana de Joyería Contemporánea.
+
+
+</div>
+
+</div>
+
+</div>

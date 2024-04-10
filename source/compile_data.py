@@ -41,10 +41,9 @@ def extract_info(path, mode, keys):
 def main():
 	file_dat = '../cfg/data-automatic.js'
 	data = {
-		'pages': extract_info('../public_html/dat/pages/', 'markdown', ['title']),
-		'series': extract_info('../public_html/dat/series/', 'yaml', ['title-es', 'title-en']),
-		#'news': extract_info('../public_html/dat/news/', 'markdown', ['title', 'date']),
-		#'press': extract_info('../public_html/dat/press/', 'markdown', ['title', 'date']),
+            'pages': extract_info('../dat/pages/', 'markdown', ['title']),
+		'series': extract_info('../dat/series/', 'yaml', ['title-es', 'title-en']),
+                'events': extract_info('../dat/events/', 'yaml', ['title-es', 'title-en']),
 	}
 	with open(file_dat, 'w') as f:
 		json_tex = json.dumps(data)

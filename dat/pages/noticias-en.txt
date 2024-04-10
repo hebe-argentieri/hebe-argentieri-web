@@ -1,0 +1,8 @@
+---
+title: News
+
+---
+
+# News
+
+[[= events_list_generate() ]]
