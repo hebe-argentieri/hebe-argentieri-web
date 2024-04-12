@@ -76,11 +76,9 @@ lang_change: true
 lang_default: es
 lang_available: { es: Español, en: English }
 
-
 # Descargas / Downloads
-download:
-  cv_pdf: ./download/cv_hebe_argentieri.pdf
-
+#download:
+#  cv_pdf: ./download/cv_hebe_argentieri.pdf
 
 # Rutas / Paths
 path:
