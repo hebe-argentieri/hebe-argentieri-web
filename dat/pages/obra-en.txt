@@ -1,8 +1,8 @@
 ---
-title: Works
+title: Work
 
 ---
 
-# Works
+# Work
 
 [[= series_list_generate() ]]

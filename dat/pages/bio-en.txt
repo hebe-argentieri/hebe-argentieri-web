@@ -24,7 +24,7 @@ She is part of the collectives [ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cf
 
 Since 2015 she has taught jewelry design at her own studio as well as online seminars.
 
-She received the Creation Grant from the National Endowment for the Arts to develop her work on biomaterials.
+<small>She received the Creation Grant from the National Endowment for the Arts to develop her work on biomaterials.</small>
 
 <br><br>
 
@@ -38,7 +38,7 @@ She received the Creation Grant from the National Endowment for the Arts to deve
 #### 2023
 + Mechanic connections in jewelry making, Chris Kiseno
 + Biomaterial Lab, MediaLab CCBA- Ana Laura Cantera
-+ (2023-2022) Textile practices, Silvina Romero
++ Textile practices, Silvina Romero (2023-2022)
 + Art, Territory and  Technology in the Southern Cone, Círculo de Estudio UNSAM
 
 #### 2022
@@ -49,8 +49,8 @@ She received the Creation Grant from the National Endowment for the Arts to deve
 + Uses of resin, Paula Botto Fiora
 
 #### 2020
-+  iomaterials, Ana Laura Cantera
-+ (2020-2008) Contemporary Jewelry design, Mabel Pena
++ Biomaterials, Ana Laura Cantera
++ Contemporary Jewelry design, Mabel Pena. (2008-2020)
 
 #### 2019-2017
 + De lo plástico a lo visual. Jorge Manilla

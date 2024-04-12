@@ -21,14 +21,11 @@ title: Bio
 
 **Hebe Argentieri** artista joyera radicada en Junín, Argentina trabaja desarrollando piezas portables que exploran su relación con el territorio. Los materiales son parte central de su discurso.
 
-Desde 2015 da [clases](#p:clases) en su propio taller.
-
 Forma parte de: [ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.url ]]), [ [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.url ]]), Km0, [ [[= G.cfg.totoral.name ]] ]([[= G.cfg.totoral.url ]]).
 
 Desde 2015 da clases presenciales en su propio taller así como seminarios y talleres online.
 
-Recibió Beca Creación del Fondo Nacional de las Artes para el desarrollo del proyecto sobre biomateriales.
-
+<small>Recibió Beca Creación del Fondo Nacional de las Artes para el desarrollo del proyecto sobre biomateriales.</small>
 
 <br><br>
 
@@ -42,7 +39,7 @@ Recibió Beca Creación del Fondo Nacional de las Artes para el desarrollo del p
 #### 2023
 + Ensambles mecánicos aplicados a la joyería, Chris Kiseno
 + Laboratorio biomaterial de intersecciones, MediaLab CCBA- Ana Laura Cantera
-+ (2023-2022) Prácticas textiles, Silvina Romero
++ Prácticas textiles, Silvina Romero (2023-2022)
 + Arte, Territorio y Tecnología en el Cono Sur, Círculo de Estudio UNSAM
 
 #### 2022
@@ -54,7 +51,7 @@ Recibió Beca Creación del Fondo Nacional de las Artes para el desarrollo del p
 
 #### 2020
 + Biomateriales, Ana Laura Cantera
-+ (2020-2008) Taller km0 Mabel Pena
++ Taller km0 Mabel Pena. (2008-2020)
 
 #### 2019-2017
 + De lo plástico a lo visual. Jorge Manilla
