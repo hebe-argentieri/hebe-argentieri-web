@@ -12,6 +12,12 @@ title: Classes
 
 <div class="img flex_col fc_1d3 mobile">
 
+![](/img/events/entrevista_que_se_aprende.jpg)
+
+Interview in ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escuela-de-hebe-argentieri/)
+
+<br>
+
 ![Taller](./img/pages/taller_1-gris.jpg)
 
 </div>
@@ -22,9 +28,6 @@ title: Classes
 Personal and private space where craft, poetics and emotions come in play.
 
 At my studio I guide participants’ individual search of their creative language by learning techniques, and exploring materials to develop jewelry pieces.
-
-
-Interview in ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escuela-de-hebe-argentieri/)
 
 <br>
 

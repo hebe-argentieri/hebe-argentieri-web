@@ -12,6 +12,12 @@ title: Clases
 
 <div class="img flex_col fc_1d3 mobile">
 
+![](/img/events/entrevista_que_se_aprende.jpg)
+
+Entrevista en ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escuela-de-hebe-argentieri/)
+
+<br>
+
 ![Taller](./img/pages/taller_1-gris.jpg)
 
 </div>
@@ -22,14 +28,11 @@ Espacio personal y colectivo, en donde se fraguan el oficio, las poéticas y las
 
 En el taller acompaño en las búsquedas individuales de lenguajes creativos propios - aprender técnicas, descubrir materiales, explorar para desarrollar piezas de joyería.
 
-Entrevista en ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escuela-de-hebe-argentieri/)
-
 <br>
 
 <div class="list_lined">
 
-+ Clases presenciales **(grupos reducidos)**
-+ Clases online
++ Clases presenciales **(grupos reducidos)** y clases online
 + Seminarios intensivos
 
 </div>
