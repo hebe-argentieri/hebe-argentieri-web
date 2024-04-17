@@ -29,9 +29,9 @@ Desde 2015 da clases presenciales en su propio taller así como seminarios y t
 
 <br><br>
 
-<div class="text list_compact no_padding_top_first_h2">
+<div class="text text-small list_compact no_padding_top_first_h2">
 
-### TALLERES Y SEMINARIOS
+### FORMACIÓN
 
 #### 2024
 + Abril. Taller virtual de micelio-biomateriales de hongo. Ana Laura Cantera.

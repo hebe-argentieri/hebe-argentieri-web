@@ -28,9 +28,9 @@ Since 2015 she has taught jewelry design at her own studio as well as online sem
 
 <br><br>
 
-<div class="text list_compact no_padding_top_first_h2">
+<div class="text text-small list_compact no_padding_top_first_h2">
 
-### WORKSHOPS AND SEMINARS
+### EDUCATION
 
 #### 2024
 + Virtual workshop on mycelium - mushroom biomaterials. Ana Laura Cantera

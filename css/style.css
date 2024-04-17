@@ -187,9 +187,8 @@ select#page_lang {
 }
 
 .list_lined li {
-    padding: 10px;
-    margin: 8px auto;
-    border-top: 1px solid #bbb;
+    padding: 7px;
+    margin: 4px auto;
     border-left: 2px solid #ccc;
 }
 
@@ -206,6 +205,10 @@ select#page_lang {
     padding-left: 10px;
     border-left: 2px solid #ccc;
 }
+.text-small h3 { font-size: 1em; }
+.text-small h4 { font-size: 0.9em; }
+.text-small li { font-size: 0.8em; }
+.text-small p { font-size: 0.8em; }
 
 
 .list_item li {
