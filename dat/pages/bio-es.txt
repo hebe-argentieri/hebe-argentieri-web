@@ -19,17 +19,27 @@ title: Bio
 <div class="text">
 
 
-**Hebe Argentieri** artista joyera radicada en Junín, Argentina trabaja desarrollando piezas portables que exploran su relación con el territorio. Los materiales son parte central de su discurso.
+**Hebe Argentieri** artista joyera radicada en Junín, Argentina trabaja desarrollando piezas portables que exploran su relación con el territorio. Los materiales son parte central de su discurso, busca transformarlos para hacer visible lo que estaba oculto y relatar historias vinculadas a su entorno.
 
-Forma parte de: [ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.url ]]), [ [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.url ]]), Km0, [ [[= G.cfg.totoral.name ]] ]([[= G.cfg.totoral.url ]]).
+Su práctica se nutre de una conciencia ambiental que la lleva a repensar la materia, interviniendo plásticos en desuso y desarrollando biomateriales.
 
-Desde 2015 da clases presenciales en su propio taller así como seminarios y talleres online.
+Forma parte de:
+[ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.url ]]),
+[ [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.url ]]),
+[ [[= G.cfg.preciouscolective.name ]] ]([[= G.cfg.preciouscolective.url ]]),
+[ [[= G.cfg.klimt02.name ]] ]([[= G.cfg.klimt02.url ]]),
+Km0.
 
-<small>Recibió Beca Creación del Fondo Nacional de las Artes para el desarrollo del proyecto sobre biomateriales.</small>
+Desde 2015 da clases presenciales en su propio taller así como seminarios y talleres.
+
+
+<small>Recibió Beca Creación del Fondo Nacional de las Artes para el desarrollo de obra a partir de biomateriales.</small>
 
 <br><br>
 
 <div class="text text-small list_compact no_padding_top_first_h2">
+
+
 
 ### FORMACIÓN
 
@@ -51,25 +61,34 @@ Desde 2015 da clases presenciales en su propio taller así como seminarios y t
 
 #### 2020
 + Biomateriales, Ana Laura Cantera
-+ 2008-2020. Taller km0 Mabel Pena.
 
 #### 2019-2017
 + De lo plástico a lo visual. Jorge Manilla
 
 #### 2014
-+ Laca Japonesa,  Francine Schloeth
++ Laca Japonesa, Francine Schloeth
 
 #### 2013
 + Seminario de cera perdida, Maestro Antonio Pujía
-+ Taller de Diseño de Joyas en Papel,  Luis Acosta
++ Taller de Diseño de Joyas en Papel,Luis Acosta
 
-### PUBLICACIONES
-+ 2022 Proof of Existence, Revista MAWA
-+ 2020 Brazaletes, Nicolás Estrada, Promopress
-+ 2017 Narrative Jewelry, Schiffer Publishing
-+ 2015 The Contemporary Jewelry Exchange
+#### 2008-2020
++ Taller km0 Mabel Pena
+
+
 
 ### EXHIBICIONES (selección)
+
+#### 2025
++ Chaos and Control, Precious Collective, Munich Jewelry Week & Lalabeyou, Madrid
++ Biennale 2025. Gates of Transition. Ilias Lalalounis Jewelry Museum, Atenas
+
+#### 2024
++ Mundos de juego, IV Bienal latinoamericana de joyería contemporánea. El Obrador, Bs As
++ Al hueso. Colectivo Caracú. IV Bienal latinoamericana de joyería contemporánea. Pasaje 17, Bs As
++ Un Camino Infinito-40 años de democracia, IV Bienal latinoamericana de joyería contemporánea, Casa O, Santiago de Chile
++ Rituales de pasaje- construcción colectiva, IV Bienal latinoamericana de joyería contemporánea. Centro Cultural Viva, Bs As
++ Ensayos de fusión de una cartografía fragmentada, IV Bienal latinoamericana de joyería contemporánea, Fundación Casa Pronto, Junín
 
 #### 2023
 + Un Camino Infinito-40 años de democracia, Museo Histórico Sarmiento BsAs
@@ -122,27 +141,30 @@ Desde 2015 da clases presenciales en su propio taller así como seminarios y t
 + Salón de la Creatividad y Diseño Artesanal, Berazategui
 
 #### 2014
-+ **1° Mención categoría Metal, Concurso Nacional de Artesanías**, Fondo Nacional de las Artes, Buenos Aires
++ 1° Mención categoría Metal, Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
 
 #### 2013
-+ **Concurso Nacional de Artesanías**, Fondo Nacional de las Artes, Buenos Aires
-+ **Tema Pendiente** - Joyería Contemporánea con Materiales Reciclados, Buenos Aires
++ Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
++ Tema Pendiente - Joyería Contemporánea con Materiales Reciclados, Buenos Aires
 
 #### 2012
-+ **Colectivo Transformándonos Ciclos**. Museo de la Mujer, Buenos Aires
++ Colectivo Transformándonos Ciclos. Museo de la Mujer, Buenos Aires
 
 #### 2010
-+ **Colectivo Transformándonos Agua, Aire, Tierra, Fuego**. Galería Arte y Parte, Buenos Aires,Centro Favio Virla, Universidad Nacional de Tucumán 2011 Museo de Arte, Gral Pringles, Centro de Arte Isidoro, Cnel Suárez Museo y Archivos, Laprida
++ Colectivo Transformándonos Agua, Aire, Tierra, Fuego. Galería Arte y Parte, Buenos Aires,Centro Favio Virla, Universidad Nacional de Tucumán 2011 Museo de Arte, Gral Pringles, Centro de Arte Isidoro, Cnel Suárez Museo y Archivos, Laprida
+
 
 
 ### CURADURÍA Y ORGANIZACIÓN DE EXHIBICIONES
 
-#### 2018
-+ Travesías 847, Estación de Arte, Junín/ Museo de Arte de Mercedes, II Bienal Latinoamericana de Joyería Contemporánea.
+#### 2024
++ Ensayos de fusión de una cartografía fragmentada. IV Bienal latinoamericana de joyería contemporánea. Fundación Casa Pronto, Junín
 
 #### 2021
-+ Discurri(es) inadvertido(s) Studio Hebe Argentieri and guests, TonoLocal, Junín III Bienal Latinoamericana de Joyería Contemporánea.
++ Discurri(es) inadvertido(s), TonoLocal, Junín III Bienal Latinoamericana de Joyería Contemporánea
 
+#### 2018
++ Travesías 847, Estación de Arte, Junín/ Museo de Arte de Mercedes, II Bienal Latinoamericana de Joyería Contemporánea
 
 </div>
 

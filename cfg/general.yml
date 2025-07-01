@@ -57,6 +57,11 @@ klimt02:
   url: https://klimt02.net/jewellers/hebe-argentieri
   icon: ./img/icono-klimt02.svg
 
+preciouscolective:
+  name: 'Precious Collective'
+  url: https://klimt02.net/jewellers/hebe-argentieri
+  icon: ./img/icono-preciouscolective.svg
+
 caracu:
   name: 'Caracú Art'
   url: https://www.instagram.com/caracu.art/
