@@ -407,6 +407,7 @@ select#page_lang {
     padding-bottom: 20px;
 
 }
+
 #events_gallery .text h2 {
     font-size: 1.2em;
     padding: 4px;
@@ -599,14 +600,25 @@ select#page_lang {
     max-height: 80vh;
     max-width: 80vw;
 }
+
 #events_panel nav button[name=close]:before {
     content: 'x';
 }
+
 #events_panel .text {
     text-align: left;
     padding: 20px 30px 10px 30px;
-
 }
+
+#events_panel .text .details b, #events_panel .text .details strong,
+#events_panel .text .details i, #events_panel .text .details em,
+#events_panel .text .details a {
+    font-size: 1.1em!important;
+    color: #666!important;
+    padding: 0!important;
+    margin: 0!important;
+}
+
 #events_panel h2 {
     text-align: center;
     font-size: 2em;

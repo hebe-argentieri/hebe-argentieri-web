@@ -88,8 +88,8 @@ Template.events_panel = `
     <div class="text">
       <h2>[[= v['title'] ]]</h2>
       <div>
-	<div>[[= v['text'] || '' ]]</div>
-	<br>
+	    <div class="details">[[= v['text'] || '' ]]</div>
+	    <br>
       </div>
     </div>
     <div class="links">

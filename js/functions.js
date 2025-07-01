@@ -338,6 +338,8 @@ function open_gallery( d, i ) {
 }
 
 function open_event( d ) {
+    d.text = marked.parse( d.text );
+
     const cnt = $( _.template( Template.events_panel )( {v: d} ) ),
           close = cnt.find( '[name=close]' ),
           body = $( 'body' );
