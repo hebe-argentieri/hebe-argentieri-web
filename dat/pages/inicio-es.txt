@@ -3,10 +3,10 @@ title: Inicio
 ---
 
 [[= html_slide([
-    './img/pages/home/ccar_01.jpg',
     './img/pages/home/deso_01.jpg',
-    './img/pages/home/ccar_02.jpg',
-    './img/pages/home/deso_02.jpg',
+    './img/pages/home/cypc_01.jpg',
+    './img/pages/home/gene_01.jpg',
+    './img/pages/home/qnnd_01.jpg',
     ])
 ]]
 
