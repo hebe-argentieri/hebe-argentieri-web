@@ -26,7 +26,7 @@ Entrevista en ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escue
 
 </div>
 
-<div class="list_item">
+<div class="list_item pe-30">
 
 **CONSULTAS**
 
@@ -42,7 +42,63 @@ Entrevista en ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escue
 
 Espacio personal y colectivo, en donde se fraguan el oficio, las poéticas y las emociones. En el taller acompaño en las búsquedas individuales de lenguajes creativos propios - aprender técnicas, descubrir materiales, explorar para desarrollar piezas de joyería.
 
+<br><hr>
+
+## CLASES REGULARES semanales o quincenales
+
+Clases grupales pero con seguimiento individual por lo que **se puede comenzar en cualquier momento**.
+
+Explorá el diseño y conceptos para crear piezas únicas que trascienden lo convencional. Aprendé a transformar materiales en objetos que cuentan historias, expresan emociones y reflejan tu visión artística.
+
+Dirigido tanto a quienes quieren iniciarse en el mundo de la joyería como a artistas o diseñadores que buscan ampliar sus posibilidades creativas.
++ Técnicas de fabricación y experimentación con materiales.
++ Desarrollo de lenguaje artístico y diseño de colecciones.
+
+¡No se necesita experiencia!
+Grupos reducidos para un seguimiento personalizado.
+
+![](/img/classes/clases_regulares.jpg)
+
 <br>
+
+**HORARIOS**
++ Miércoles de 14 a 16 hs.
++ Jueves de 10 a 12 hs.
++ Jueves de 17 a 19 hs.
++ Sábados quincenales de 9 a 13 hs.
+
+
+<br><hr>
+
+## EXPERIENCIAS: Un día de taller
+
+Sumate a la experiencia de diseñar y hacer con tus propias manos mientras disfrutás de un momento único.
+
+Experimentá un día de taller para crear tu propia pieza de joyería. No necesitás ningún tipo de conocimiento especial, cualquiera puede sumarse.
+
+[[= classes_list_generate('c_experiencias', [
+    'exp_un_dia_un_anillo',
+    'exp_un_dia_un_brazalete',
+    'exp_experiencias_en_cera',
+    ])
+]]
+
+<br><hr>
+
+## SEMINARIOS INTENSIVOS
+
+Regularmente se ofrecen seminarios intensivos sobre diferentes técnicas y materiales.
+
+[[= classes_list_generate('c_seminarios', [
+    'sem_inclusiones',
+    'sem_biomateriales',
+    'sem_laca_japonesa',
+    'sem_resina',
+    'sem_plastico_reciclados',
+    'sem_casamiento_de_metales',
+    'sem_modelado_metales',
+    ])
+]]
 
 </div>
 

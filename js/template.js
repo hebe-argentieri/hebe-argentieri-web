@@ -61,7 +61,7 @@ Template.gallery_panel = `
 Template.events_item = `
 <section class="event">
   <script name="data" type="text/json">[[= JSON.stringify(v) ]]</script>
-  <div class="image"><img src="./img/events/[[= v['images'][0] + no_cache() ]]"></div>
+  <div class="image"><img src="/img/events/[[= v['images'][0] + no_cache() ]]"></div>
   <div class="text">
     <h2>[[= v['title'] ]]</h2>
     <div>
@@ -96,13 +96,13 @@ Template.events_panel = `
       <strong>Enlaces</strong>
       <ul>
 	[[ for(var link of v.urls) {]]
-	<li><a href="[[= link[3] ]]" target="_blank"><img src="./img/icon/[[= link[0] ]].png" alt="[[= link[1] ]]">[[= link[2] ]]</a></li>
+	<li><a href="[[= link[3] ]]" target="_blank"><img src="/img/icon/[[= link[0] ]].png" alt="[[= link[1] ]]">[[= link[2] ]]</a></li>
 	[[ } ]]
       </ul>
     </div>
     <div class="images">
       [[ for(var img of v.images ){ ]]
-      <img src="./img/events/[[= img + no_cache() ]]">
+      <img src="/img/events/[[= img + no_cache() ]]">
       [[ } ]]
     </div>
   </div>
@@ -113,7 +113,57 @@ Template.html_slide = `
 <div id="[[= id ]]" class="slide">
   <div class="image">
     <img class="back" src="[[= images[0] ]]">
-    <img class="front" src="./img/empty.svg">
+    <img class="front" src="/img/empty.svg">
   </div>
   <ul></ul>
+</div>`;
+
+
+Template.classes_item = `
+<section class="classes">
+  <script name="data" type="text/json">[[= JSON.stringify(v) ]]</script>
+  <div class="img mobile image"><img src="/img/classes/[[= v['img_ini'] + no_cache() ]]"></div>
+  <div class="text">
+    <p class="title">[[= v['title'] ]]</p>
+    <p class="shortxt">[[= v['shortxt'] ]]</p>
+  </div>
+  <div class="">
+    [[ if(v.description.length > 0){ ]]
+       <div class="right"><b class="btn more">[[= G.cfg.texts.show_details[G.lang] ]]</b></div>
+    [[ } ]]
+  </div>
+</section>`;
+
+Template.classes_grp_item = `
+<section class="classes">
+  <script name="data" type="text/json">[[= JSON.stringify(v) ]]</script>
+  <div class="btn more"><b>+</b> [[= v['title'] ]]</div>
+</section>`;
+
+Template.classes_panel = `
+<div id="classes_panel">
+  <div class="cnt">
+    <nav>
+      <span class="upper c-white">[[= G.cfg.texts.classes[G.lang] ]]<span> &nbsp;
+      <button name="close"></button>
+    </nav>
+    <div class="text">
+      <h2>[[= v['title'] ]]</h2>
+      <div>
+	    <div class="details">[[= v['description'] || '' ]]</div>
+        [[ if(v['finalized'] !== true){ ]]
+           <div class="registration">
+             <span>[[= G.cfg.registration.classes[G.lang] ]]</span>
+             <a href="[[= G.cfg.registration.protocol ]][[= G.cfg.registration.url ]]" target="_blank">[[= G.cfg.registration.url ]]</a> !
+           </div>
+        [[ } ]]
+	    <br>
+      </div>
+      <div class="images">
+        [[ for(var img of v.images ){ ]]
+        <img src="/img/classes/[[= img + no_cache() ]]">
+        [[ } ]]
+      </div>
+    </div>
+  </div>
 </div>`;

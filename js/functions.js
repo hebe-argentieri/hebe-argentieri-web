@@ -236,6 +236,8 @@ function content_url( d ) {
 	    return G.cfg.path[ 'series' ] + n + '.yml';
     } else if ( 'e' === t ) {
 	    return G.cfg.path[ 'events' ] + n + '.yml';
+    } else if ( 'c' === t ) {
+	    return G.cfg.path[ 'classes' ] + n + '.yml';
     } else if ( 'p' === t ) {
 	    return G.cfg.path[ 'pages' ] + id_lang( n, data.pages ) + '.txt';
     }
@@ -499,4 +501,54 @@ function html_slide( images ) {
 
     setTimeout( active, 500 );
     return _.template( Template.html_slide )( dat );
+}
+
+
+
+function open_classes( d ) {
+    const cnt = $( _.template( Template.classes_panel )( {v: d} ) ),
+          close = cnt.find( '[name=close]' ),
+          body = $( 'body' );
+
+    close.on({
+	    'click': function(){
+	        cnt.remove();
+	        body.removeClass( 'locked' );
+	    }
+    });
+
+    body.append( cnt );
+    body.addClass( 'locked' );
+}
+
+function classes_list_generate(lid, items_list) {
+    let v, uri, sid,
+	    list = [];
+    const id = `classes_gallery_${lid}`;
+
+    const active = () => {
+	    G[id] = $('#'+id);
+	    G[id].delegate( '.classes .btn.more', 'click', function() {
+	        const $el = $( this ),
+		          $pa = $el.parent().parent().parent(),
+		          json = JSON.parse( $pa.find( 'script[name=data]' ).eq( 0 ).html() );
+	        open_classes( json );
+	    });
+    };
+
+    const add = ( d, args ) => {
+        d.description = marked.parse( d.description );
+        d.shortxt = marked.parse( d.shortxt );
+	    if( undefined === G[id] ) { active(); }
+	    G[id].find( `#${args.id}` ).html(
+	        _.template( Template.classes_item )( {v: d} ) );
+    };
+
+    for( v of items_list ){
+	    sid = `classes-${v}`;
+	    uri = content_url( ['c', v] );
+	    list.push( `<div id="${sid}"></div>` );
+	    yml_load( uri, add, {id: sid} );
+    }
+    return `<div id="${id}">${ list.join( '' ) }</div>`;
 }
