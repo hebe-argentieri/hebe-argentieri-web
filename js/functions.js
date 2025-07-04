@@ -38,6 +38,7 @@ function md_load( url, fn, args ){
 
 
 function is_mobile() {
+    console.log(window.innerWidth);
     return window.innerWidth < 700;
 }
 
@@ -65,6 +66,10 @@ function logo_fix() {
 	        logo = G.cfg.logo_small;
 	    }
     }
+    if (typeof logo === 'object'){
+        logo = logo[G.lang];
+    }
+    console.log(logo);
     G.logo.attr( 'src', logo );
 }
 
