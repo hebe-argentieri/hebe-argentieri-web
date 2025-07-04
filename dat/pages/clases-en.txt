@@ -8,7 +8,7 @@ title: Classes
 
 </div>
 
-<div class="columns">
+<div class="columns mobile_flex_reverse">
 
 <div class="flex_col fc_1d3">
 
