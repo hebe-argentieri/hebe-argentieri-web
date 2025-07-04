@@ -69,7 +69,6 @@ function logo_fix() {
     if (typeof logo === 'object'){
         logo = logo[G.lang];
     }
-    console.log(logo);
     G.logo.attr( 'src', logo );
 }
 
