@@ -33,4 +33,8 @@
         width: 100%;
     }
 
+    .mobile_flex_reverse {
+        flex-flow: column-reverse;
+    }
+
 }

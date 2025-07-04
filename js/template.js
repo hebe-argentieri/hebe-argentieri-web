@@ -154,7 +154,9 @@ Template.classes_panel = `
         [[ if(v['finalized'] !== true){ ]]
            <div class="registration">
              <span>[[= G.cfg.registration.classes[G.lang] ]]</span>
-             <a href="[[= G.cfg.registration.protocol ]][[= G.cfg.registration.url ]]" target="_blank">[[= G.cfg.registration.url ]]</a> !
+             <a href="[[= G.cfg.registration.protocol ]][[= G.cfg.registration.url ]]" target="_blank">[[= G.cfg.registration.url ]]</a>
+             &nbsp;,&nbsp;
+             <a href="[[= G.cfg.whatsapp.url ]]" target="_blank">WA: [[= G.cfg.whatsapp.name ]]</a> .
            </div>
         [[ } ]]
 	    <br>

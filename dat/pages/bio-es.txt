@@ -19,21 +19,20 @@ title: Bio
 <div class="text">
 
 
-**Hebe Argentieri** artista joyera radicada en Junín, Argentina trabaja desarrollando piezas portables que exploran su relación con el territorio. Los materiales son parte central de su discurso, busca transformarlos para hacer visible lo que estaba oculto y relatar historias vinculadas a su entorno.
+**Hebe Argentieri** artista joyera radicada en Junín, Argentina trabaja desarrollando piezas portables que exploran su relación con el territorio. Los materiales son parte central de su discurso, busca transformarlos para develar lo oculto y componer narraciones vinculadas a su entorno.
 
-Su práctica se nutre de una conciencia ambiental que la lleva a repensar la materia, interviniendo plásticos en desuso y desarrollando biomateriales.
+Su práctica se nutre de una sensibilidad ambiental que la lleva a repensar la materia, interviniendo plásticos en desuso y desarrollando biomateriales.
 
 Forma parte de:
 [ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.url ]]),
 [ [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.url ]]),
 [ [[= G.cfg.preciouscolective.name ]] ]([[= G.cfg.preciouscolective.url ]]),
-[ [[= G.cfg.klimt02.name ]] ]([[= G.cfg.klimt02.url ]]),
-Km0.
+[ [[= G.cfg.klimt02.name ]] ]([[= G.cfg.klimt02.url ]]).
 
 Desde 2015 da clases presenciales en su propio taller así como seminarios y talleres.
 
 
-<small>Recibió Beca Creación del Fondo Nacional de las Artes para el desarrollo de obra a partir de biomateriales.</small>
+<small>En 2021 recibió Beca Creación del Fondo Nacional de las Artes para el desarrollo de obra a partir de biomateriales.</small>
 
 <br><br>
 
@@ -44,7 +43,7 @@ Desde 2015 da clases presenciales en su propio taller así como seminarios y tal
 ### FORMACIÓN
 
 #### 2024
-+ Abril. Taller virtual de micelio-biomateriales de hongo. Ana Laura Cantera.
++ Taller virtual de micelio-biomateriales de hongo. Ana Laura Cantera.
 
 #### 2023
 + Ensambles mecánicos aplicados a la joyería, Chris Kiseno
@@ -84,11 +83,11 @@ Desde 2015 da clases presenciales en su propio taller así como seminarios y tal
 + Biennale 2025. Gates of Transition. Ilias Lalalounis Jewelry Museum, Atenas
 
 #### 2024
-+ Mundos de juego, IV Bienal latinoamericana de joyería contemporánea. El Obrador, Bs As
-+ Al hueso. Colectivo Caracú. IV Bienal latinoamericana de joyería contemporánea. Pasaje 17, Bs As
-+ Un Camino Infinito-40 años de democracia, IV Bienal latinoamericana de joyería contemporánea, Casa O, Santiago de Chile
-+ Rituales de pasaje- construcción colectiva, IV Bienal latinoamericana de joyería contemporánea. Centro Cultural Viva, Bs As
-+ Ensayos de fusión de una cartografía fragmentada, IV Bienal latinoamericana de joyería contemporánea, Fundación Casa Pronto, Junín
++ Mundos de juego, IV Bienal Latinoamericana de Joyería Contemporánea. El Obrador, Bs As
++ Al hueso. Colectivo Caracú. IV Bienal Latinoamericana de Joyería Contemporánea. Pasaje 17, Bs As
++ Un Camino Infinito-40 años de democracia, IV Bienal Latinoamericana de Joyería Contemporánea, Casa O, Santiago de Chile
++ Rituales de pasaje- construcción colectiva, IV Bienal Latinoamericana de Joyería Contemporánea. Centro Cultural Viva, Bs As
++ Ensayos de fusión de una cartografía fragmentada, IV Bienal Latinoamericana de Joyería Contemporánea, Fundación Casa Pronto, Junín
 
 #### 2023
 + Un Camino Infinito-40 años de democracia, Museo Histórico Sarmiento BsAs
@@ -117,7 +116,7 @@ Desde 2015 da clases presenciales en su propio taller así como seminarios y tal
 #### 2018
 + Heart Failure, Alliages, Lille, Francia
 + Nosotras, Galería Bs As Sur, Buenos Aires, Argentina
-+ Vecinos, II Bienal Latinomericana de Joyería Contemporánea, MAP, Argentina
++ Vecinos, II Bienal Latinoamericana de Joyería Contemporánea, MAP, Argentina
 + Huella, De la Mano, Colombia
 + Chaos, Alliages, Lille, Francia
 + NOD On Full Volume at Alliages, Lille, Francia
@@ -158,7 +157,7 @@ Desde 2015 da clases presenciales en su propio taller así como seminarios y tal
 ### CURADURÍA Y ORGANIZACIÓN DE EXHIBICIONES
 
 #### 2024
-+ Ensayos de fusión de una cartografía fragmentada. IV Bienal latinoamericana de joyería contemporánea. Fundación Casa Pronto, Junín
++ Ensayos de fusión de una cartografía fragmentada. IV Bienal Latinoamericana de Joyería Contemporánea. Fundación Casa Pronto, Junín
 
 #### 2021
 + Discurri(es) inadvertido(s), TonoLocal, Junín III Bienal Latinoamericana de Joyería Contemporánea

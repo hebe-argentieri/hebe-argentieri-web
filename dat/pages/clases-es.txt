@@ -8,7 +8,7 @@ title: Clases
 
 </div>
 
-<div class="columns">
+<div class="columns mobile_flex_reverse">
 
 <div class="flex_col fc_1d3">
 
@@ -32,7 +32,7 @@ Entrevista en ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escue
 
 + [![Email]([[= G.cfg.email_g.icon ]]) [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
 + [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])
-+ [![ [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.icon ]]) [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.url ]])
++ [![ [[= G.cfg.whatsapp.name ]] ]([[= G.cfg.whatsapp.icon ]]) [[= G.cfg.whatsapp.name ]] ]([[= G.cfg.whatsapp.url ]])
 
 </div>
 
@@ -78,8 +78,8 @@ Experimentá un día de taller para crear tu propia pieza de joyería. No necesi
 
 [[= classes_list_generate('c_experiencias', [
     'exp_un_dia_un_anillo',
-    'exp_un_dia_un_brazalete',
     'exp_experiencias_en_cera',
+    'exp_un_dia_un_brazalete',
     ])
 ]]
 
@@ -93,10 +93,10 @@ Regularmente se ofrecen seminarios intensivos sobre diferentes técnicas y mater
     'sem_inclusiones',
     'sem_biomateriales',
     'sem_laca_japonesa',
+    'sem_casamiento_de_metales',
     'sem_resina',
     'sem_plastico_reciclados',
-    'sem_casamiento_de_metales',
-    'sem_modelado_metales',
+    'sem_modelado_ceras',
     ])
 ]]
 

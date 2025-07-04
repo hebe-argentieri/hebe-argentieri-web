@@ -15,66 +15,71 @@ copyright:
 
 meta_description: Hebe Argentieri. Joyería Contemporánea. Art Jewelry. Argentina.
 url: 'https://hebeargentieri.com.ar'
-logo_share: './img/logo_share.png'
+logo_share: '/img/logo_share.png'
 logo_normal:
-  es: ./img/ha_logo-es.svg
-  en: ./img/ha_logo-en.svg
-logo_small: ./img/ha_iso.svg
+  es: /img/ha_logo-es.svg
+  en: /img/ha_logo-en.svg
+logo_small: /img/ha_iso.svg
 
 
 # Contacto / Contact
 geo:
   city: Junín
   country: Argentina
-  icon: ./img/icono-geo.svg
+  icon: /img/icono-geo.svg
 
 email_g:
   account: hebeargentieri@gmail.com
-  icon: ./img/icono-email.svg
+  icon: /img/icono-email.svg
 
 email_y:
   account: hebeargentieri@yahoo.com.ar
-  icon: ./img/icono-email.svg
+  icon: /img/icono-email.svg
 
 facebook:
   name: Hebe Argentieri
   url: https://www.facebook.com/hebeargentierijoyeriacontemporanea1/
-  icon: ./img/icono-facebook.svg
+  icon: /img/icono-facebook.svg
 
 instagram:
   name: '@hebeargentieri'
   url: https://instagram.com/hebeargentieri
-  icon: ./img/icono-instagram.svg
+  icon: /img/icono-instagram.svg
+
+whatsapp:
+  name: '+54 236 453-4671'
+  url: https://wa.me/542364534671
+  icon: /img/icono-whatsapp.svg
 
 joyeros_argentinos:
   name: 'Joyeros Argentinos'
   url: https://www.joyeros-argentinos.com.ar/artistas/hebe-argentieri/
   url2: http://www.joyeros-argentinos.com.ar/creadores-de-joyeria-contemporanea-en-argentina/hebe-argentieri/
-  icon: ./img/icono-joyeros_argentinos.svg
+  icon: /img/icono-joyeros_argentinos.svg
 
 klimt02:
   name: 'Klimt02'
   url: https://klimt02.net/jewellers/hebe-argentieri
-  icon: ./img/icono-klimt02.svg
+  icon: /img/icono-klimt02.svg
 
 preciouscolective:
   name: 'Precious Collective'
   url: https://klimt02.net/jewellers/hebe-argentieri
-  icon: ./img/icono-preciouscolective.svg
+  icon: /img/icono-preciouscolective.svg
 
 caracu:
   name: 'Caracú Art'
   url: https://www.instagram.com/caracu.art/
-  icon: ./img/icono-caracu.svg
+  icon: /img/icono-caracu.svg
 
 totoral:
   name: 'Proyecto Totoral'
   url: https://www.instagram.com/proyectototoral/
-  icon: ./img/icono-totoral.svg
+  icon: /img/icono-totoral.svg
 
 min_cultura:
   name: 'Ministerio de Cultura Argentina'
-  logo: ./img/min-cultura.svg
+  logo: /img/min-cultura.svg
 
 # Idioma / Language
 lang_change: true
@@ -103,7 +108,7 @@ registration:
   protocol: 'mailto:'
   classes:
     es: 'Para inscribirte a estas clases contáctame desde '
-    en: 'To sign up for these classes contact me from'
+    en: 'To sign up for these classes contact me from '
 
 # Páginas / Pages
 initial_page: 'p:inicio'
