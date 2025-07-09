@@ -11,18 +11,22 @@ description-en: |
 
 images:
   -
-    img: ./img/series/genesis/01.jpg
+    img: ./img/series/genesis/_03.jpg
     tex-es: Génesis III. Ph Damián Wasser
     tex-en: Genesis III. Ph Damián Wasser
   -
-    img: ./img/series/genesis/02.jpg
+    img: ./img/series/genesis/_04.jpg
     tex-es: Génesis IV. Ph Damián Wasser
     tex-en: Genesis IV. Ph Damián Wasser
   -
-    img: ./img/series/genesis/03.jpg
+    img: ./img/series/genesis/_05.jpg
     tex-es: Génesis V. Ph Damián Wasser
     tex-en: Genesis V. Ph Damián Wasser
   -
-    img: ./img/series/genesis/04.jpg
+    img: ./img/series/genesis/_01.jpg
     tex-es: Génesis I. Ph Damián Wasser
     tex-en: Genesis I. Ph Damián Wasser
+  -
+    img: ./img/series/genesis/_02.jpg
+    tex-es: Génesis II. Ph Damián Wasser
+    tex-en: Genesis II Ph Damián Wasser
