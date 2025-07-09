@@ -429,6 +429,7 @@ select#page_lang {
     flex-flow: row wrap;
     align-items: center;
     align-content: center;
+    justify-content: center;
 }
 #series_gallery .mini li {
     cursor: pointer;
