@@ -125,9 +125,9 @@ code {
 
 .manifest {
     font-size: 1.3em;
-    font-weight: lighter;
     text-align: center;
-    padding: 30px 60px 80px 60px;
+    padding: 0;
+    margin: 0;
     line-height: 1.4em;
     color: #888;
     font-style: italic;
@@ -143,10 +143,17 @@ code {
 .manifest p::after {
     content: "»";
     margin-left: 0.5em;
-    font-size: 1.6em;
-    opacity: 0.6;
+    font-size: 1em;
+    opacity: 0.8;
     font-weight: 100;
 }
+
+.manifest p {
+    margin: 0;
+    padding: 0;
+}
+
+
 .manifest * {
     color: inherit;
 }
