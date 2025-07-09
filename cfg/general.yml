@@ -100,7 +100,7 @@ path:
 # Galeria / Gallery
 gallery:
   position_sep: ' / '
-  mini_max: 4
+  mini_max: 5
 
 # Inscripciones / Registration
 registration:

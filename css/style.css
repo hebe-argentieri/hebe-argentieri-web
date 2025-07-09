@@ -437,7 +437,7 @@ select#page_lang {
     opacity: .9;
 }
 #series_gallery .mini img {
-    width: 220px;
+    width: 199px;
 }
 
 #series_gallery .mini .more {
@@ -962,5 +962,4 @@ select#page_lang {
 .circle-list li {
     list-style: circle!important;
     margin: 0 2em;
-
 }
