@@ -46,8 +46,6 @@ Espacio personal y colectivo, en donde se fraguan el oficio, las poéticas y las
 
 </div>
 
-<br><hr>
-
 ## CLASES REGULARES semanales o quincenales
 
 Clases grupales pero con seguimiento individual por lo que **se puede comenzar en cualquier momento**.
@@ -80,7 +78,7 @@ Explorá el diseño y conceptos para crear piezas únicas que trascienden lo con
 
 </div>
 
-<br><hr>
+<br>
 
 ## EXPERIENCIAS: Un día de taller
 
@@ -95,7 +93,7 @@ Experimentá un día de taller para crear tu propia pieza de joyería. No necesi
     ])
 ]]
 
-<br><hr>
+<br>
 
 ## SEMINARIOS INTENSIVOS
 
