@@ -863,8 +863,8 @@ select#page_lang {
 #classes_panel .images img {
     display: inline-block;
     margin: 3px;
-    max-height: 60vh;
-    max-width: 60vw;
+    _max-height: 60vh;
+    max-width: 30vw;
     padding: 0;
     user-select: none;
 }
