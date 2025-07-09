@@ -107,11 +107,11 @@ registration:
   url: hebeargentieri@gmail.com
   protocol: 'mailto:'
   classes:
-    es: 'Para inscribirte a estas clases contáctame desde '
+    es: 'Para inscribirte a estas clases contactame desde '
     en: 'To sign up for these classes contact me from '
 
 # Páginas / Pages
-initial_page: 'p:inicio'
+initial_page: 'p:obra'
 
 
 # Textos / Texts
