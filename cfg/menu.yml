@@ -2,8 +2,8 @@
 
 pages:
   #- inicio
-  - bio
   - obra
+  - bio
   - clases
   - noticias
   - contacto

@@ -84,7 +84,7 @@ min_cultura:
 # Idioma / Language
 lang_change: true
 lang_default: es
-lang_available: { es: Español, en: English }
+lang_available: { es: ES, en: EN }
 
 # Descargas / Downloads
 #download:
