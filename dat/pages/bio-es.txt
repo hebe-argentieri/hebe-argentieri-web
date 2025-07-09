@@ -4,160 +4,126 @@ title: Bio
 
 <div class="columns">
 
-<div class="img flex_col fc_1d3 mobile">
+<div class="flex_col fc_1d3">
+
+<div class="img mobile">
 
 ![Hebe Argentieri](./img/pages/hebe_argentieri_1-gris.jpg)
 
 </div>
 
+<br>
+
+<div class="text-small">
+
+**Forma parte de**
++ [ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.url ]]),
++ [ [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.url ]]),
++ [ [[= G.cfg.preciouscolective.name ]] ]([[= G.cfg.preciouscolective.url ]]),
++ [ [[= G.cfg.klimt02.name ]] ]([[= G.cfg.klimt02.url ]]).
+
+</div>
+
+</div>
+
+
 <div class="text">
 
+<div class="ff-bellota">
 
-**Hebe Argentieri** artista joyera radicada en Junín, Argentina trabaja desarrollando piezas portables que exploran su relación con el territorio. Los materiales son parte central de su discurso, busca transformarlos para develar lo oculto y componer narraciones vinculadas a su entorno.
+**Hebe Argentieri** artista joyera radicada en Junín, Argentina trabaja desarrollando piezas portables que exploran su relación con el territorio. Los materiales son parte central de su discurso, busca transformarlos para develar lo oculto y componer narraciones vinculadas a su entorno desde su mirada feminista.
 
 Su práctica se nutre de una sensibilidad ambiental que la lleva a repensar la materia, interviniendo plásticos en desuso y desarrollando biomateriales.
 
-Forma parte de:
-[ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.url ]]),
-[ [[= G.cfg.caracu.name ]] ]([[= G.cfg.caracu.url ]]),
-[ [[= G.cfg.preciouscolective.name ]] ]([[= G.cfg.preciouscolective.url ]]),
-[ [[= G.cfg.klimt02.name ]] ]([[= G.cfg.klimt02.url ]]).
-
-Desde 2015 da clases presenciales en su propio taller así como seminarios y talleres.
+</div>
 
 
-<small>En 2021 recibió Beca Creación del Fondo Nacional de las Artes para el desarrollo de obra a partir de biomateriales.</small>
+Desde 2015 da clases en su propio taller en Junín.
 
-<br><br>
 
 <div class="text text-small list_compact no_padding_top_first_h2">
 
 
 
 ### FORMACIÓN
++ **2024** - Taller virtual de micelio-biomateriales de hongo. Ana Laura Cantera.
++ **2023** - Ensambles mecánicos aplicados a la joyería, Chris Kiseno
++ **2023** - Laboratorio biomaterial de intersecciones, MediaLab CCBA- Ana Laura Cantera
++ **2023** - Prácticas textiles, Silvina Romero (2023-2022)
++ **2023** - Arte, Territorio y Tecnología en el Cono Sur, Círculo de Estudio UNSAM
++ **2022** - Seminario sobre biomateriales, FCEDU-UNER
++ **2021** - Cultura, Arte y Género, Flacsovirtual,
++ **2021** - Usos de la resina, Paula Botto Fiora
++ **2020** - Biomateriales, Ana Laura Cantera
++ **2019-2017** - De lo plástico a lo visual. Jorge Manilla
++ **2014** - Laca Japonesa, Francine Schloeth
++ **2013** - Seminario de cera perdida, Maestro Antonio Pujía
++ **2013** - Taller de Diseño de Joyas en Papel,Luis Acosta
++ **2008-2020** - Taller km0 Mabel Pena
 
-#### 2024
-+ Taller virtual de micelio-biomateriales de hongo. Ana Laura Cantera.
-
-#### 2023
-+ Ensambles mecánicos aplicados a la joyería, Chris Kiseno
-+ Laboratorio biomaterial de intersecciones, MediaLab CCBA- Ana Laura Cantera
-+ Prácticas textiles, Silvina Romero (2023-2022)
-+ Arte, Territorio y Tecnología en el Cono Sur, Círculo de Estudio UNSAM
-
-#### 2022
-+ Seminario sobre biomateriales, FCEDU-UNER
-
-#### 2021
-+ Cultura, Arte y Género, Flacsovirtual,
-+ Usos de la resina, Paula Botto Fiora
-
-#### 2020
-+ Biomateriales, Ana Laura Cantera
-
-#### 2019-2017
-+ De lo plástico a lo visual. Jorge Manilla
-
-#### 2014
-+ Laca Japonesa, Francine Schloeth
-
-#### 2013
-+ Seminario de cera perdida, Maestro Antonio Pujía
-+ Taller de Diseño de Joyas en Papel,Luis Acosta
-
-#### 2008-2020
-+ Taller km0 Mabel Pena
+### BECAS Y PREMIOS
++ **2021** - Beca Creación Fondo nacional de las Artes para desarrollo de serie con biomateriales
++ **2014** - 1º Mención Metal, Fondo Nacional de las Artes
 
 
-
-### EXHIBICIONES (selección)
-
-#### 2025
-+ Chaos and Control, Precious Collective, Munich Jewelry Week & Lalabeyou, Madrid
-+ Biennale 2025. Gates of Transition. Ilias Lalalounis Jewelry Museum, Atenas
-
-#### 2024
-+ Mundos de juego, IV Bienal Latinoamericana de Joyería Contemporánea. El Obrador, Bs As
-+ Al hueso. Colectivo Caracú. IV Bienal Latinoamericana de Joyería Contemporánea. Pasaje 17, Bs As
-+ Un Camino Infinito-40 años de democracia, IV Bienal Latinoamericana de Joyería Contemporánea, Casa O, Santiago de Chile
-+ Rituales de pasaje- construcción colectiva, IV Bienal Latinoamericana de Joyería Contemporánea. Centro Cultural Viva, Bs As
-+ Ensayos de fusión de una cartografía fragmentada, IV Bienal Latinoamericana de Joyería Contemporánea, Fundación Casa Pronto, Junín
-
-#### 2023
-+ Un Camino Infinito-40 años de democracia, Museo Histórico Sarmiento BsAs
-+ Missing Memories, Lille/Munich/Valencia/Barcelona
-+ Revolution, exposición virtual Snagmetalsmith
-+ Otras Narrativas, Museo Evita Los Toldos
-
-#### 2022
-+ Traer el Río, Proyecto Totoral, CCKN, Chivilcoy
-
-#### 2021
-+ Abran cancha, Concurso la II Bienal Latinoamericana de Joyería Contemporánea
-+ Las cosas que no se nombran, Colectivo Caracú, UADEart Buenos Aires
-+ Mesas de Trabajo, CC El Obrador, Buenos Aires
-
-#### 2020
-+ Desde el taller, Joyeros Argentinos online
-+ 9March Project, Moscú/ Semana de la Moda San Petersburgo,Rusia
-+ 7Artistsfor7Days, Galería Mydaybyday Roma, Italia
-+ Growth and Evolution, Instituto de Moda y Diseño, Pekín, China
-
-#### 2019
-+ Heart Failure, Athens Jewelry Week, Atenas, Grecia/ Schmuck Munich Jewelry Week, Munich, Alemania
-+ Collectiva Meeting, Oporto, Portugal
-
-#### 2018
-+ Heart Failure, Alliages, Lille, Francia
-+ Nosotras, Galería Bs As Sur, Buenos Aires, Argentina
-+ Vecinos, II Bienal Latinoamericana de Joyería Contemporánea, MAP, Argentina
-+ Huella, De la Mano, Colombia
-+ Chaos, Alliages, Lille, Francia
-+ NOD On Full Volume at Alliages, Lille, Francia
-
-#### 2017
-+ LOOT, Mad about Jewelry. Museo de Arte y Diseño. New York, USA
-+ Paradise (Lost), Alliages, Lille, Francia
-
-#### 2016
-+ Bienal Latinoamericana de Joyería Contemporánea, Museo José Hernández, Buenos Aires
-+ Mujeres, Galería de Arte Buenos Aires Sur, Buenos Aires
-+ The Permanent,  Alliages , Lille, Francia
-+ 40 Años-Arte, Memoria, Futuro. Muestra online de Joyeros Argentinos
-+ Salón de la Creatividad y Diseño Artesanal, Berazategui
-+ Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
-
-#### 2015
-+ A Dark Spark of Light, Alliages, - Lille, Francia
-+ The Contemporary Jewelry Exchange
-+ Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
-+ Salón de la Creatividad y Diseño Artesanal, Berazategui
-
-#### 2014
-+ 1° Mención categoría Metal, Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
-
-#### 2013
-+ Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
-+ Tema Pendiente - Joyería Contemporánea con Materiales Reciclados, Buenos Aires
-
-#### 2012
-+ Colectivo Transformándonos Ciclos. Museo de la Mujer, Buenos Aires
-
-#### 2010
-+ Colectivo Transformándonos Agua, Aire, Tierra, Fuego. Galería Arte y Parte, Buenos Aires,Centro Favio Virla, Universidad Nacional de Tucumán 2011 Museo de Arte, Gral Pringles, Centro de Arte Isidoro, Cnel Suárez Museo y Archivos, Laprida
-
+### PUBLICACIONES
++ **2021** - Revista MAWA, Winnipeg. Proof of Existence: The Power of Narrative Jewelry
++ **2020** - Libro New Bracelets. Nicolás Estrada. Promopress
++ **2017** - Libro Narrative Jewelry, Tales from the Toolbox, Schiffer Publishing, USA
++ **2015** - Libro The Contemporary Jewelry Exchange, Denmark
 
 
 ### CURADURÍA Y ORGANIZACIÓN DE EXHIBICIONES
++ **2024** - Ensayos de fusión de una cartografía fragmentada. IV Bienal Latinoamericana de Joyería Contemporánea. Fundación Casa Pronto, Junín
++ **2021** -  Discurri(es) inadvertido(s), TonoLocal, Junín III Bienal Latinoamericana de Joyería Contemporánea
++ **2018** - Travesías 847, Estación de Arte, Junín/ Museo de Arte de Mercedes, II Bienal Latinoamericana de Joyería Contemporánea
 
-#### 2024
-+ Ensayos de fusión de una cartografía fragmentada. IV Bienal Latinoamericana de Joyería Contemporánea. Fundación Casa Pronto, Junín
+### EXHIBICIONES (selección)
++ **2025** - Chaos and Control, Precious Collective, Munich Jewelry Week & Lalabeyou, Madrid
++ **2025** - Biennale 2025. Gates of Transition. Ilias Lalalounis Jewelry Museum, Atenas
++ **2024** - Mundos de juego, IV Bienal Latinoamericana de Joyería Contemporánea. El Obrador, Bs As
++ **2024** - Al hueso. Colectivo Caracú. IV Bienal Latinoamericana de Joyería Contemporánea. Pasaje 17, Bs As
++ **2024** - Un Camino Infinito-40 años de democracia, IV Bienal Latinoamericana de Joyería Contemporánea, Casa O, Santiago de Chile
++ **2024** - Rituales de pasaje- construcción colectiva, IV Bienal Latinoamericana de Joyería Contemporánea. Centro Cultural Viva, Bs As
++ **2024** - Ensayos de fusión de una cartografía fragmentada, IV Bienal Latinoamericana de Joyería Contemporánea, Fundación Casa Pronto, Junín
++ **2023** - Un Camino Infinito-40 años de democracia, Museo Histórico Sarmiento BsAs
++ **2023** - Missing Memories, Lille/Munich/Valencia/Barcelona
++ **2023** - Revolution, exposición virtual Snagmetalsmith
++ **2023** - Otras Narrativas, Museo Evita Los Toldos
++ **2022** - Traer el Río, Proyecto Totoral, CCKN, Chivilcoy
++ **2021** - Abran cancha, Concurso la II Bienal Latinoamericana de Joyería Contemporánea
++ **2021** - Las cosas que no se nombran, Colectivo Caracú, UADEart Buenos Aires
++ **2021** - Mesas de Trabajo, CC El Obrador, Buenos Aires
++ **2020** - Desde el taller, Joyeros Argentinos online
++ **2020** - 9March Project, Moscú/ Semana de la Moda San Petersburgo,Rusia
++ **2020** - 7Artistsfor7Days, Galería Mydaybyday Roma, Italia
++ **2020** - Growth and Evolution, Instituto de Moda y Diseño, Pekín, China
++ **2019** - Heart Failure, Athens Jewelry Week, Atenas, Grecia/ Schmuck Munich Jewelry Week, Munich, Alemania
++ **2019** - Collectiva Meeting, Oporto, Portugal
++ **2018** Heart Failure, Alliages, Lille, Francia
++ **2018** Nosotras, Galería Bs As Sur, Buenos Aires, Argentina
++ **2018** Vecinos, II Bienal Latinoamericana de Joyería Contemporánea, MAP, Argentina
++ **2018** Huella, De la Mano, Colombia
++ **2018** Chaos, Alliages, Lille, Francia
++ **2018** NOD On Full Volume at Alliages, Lille, Francia
++ **2017** LOOT, Mad about Jewelry. Museo de Arte y Diseño. New York, USA
++ **2017** Paradise (Lost), Alliages, Lille, Francia
++ **2016** - Bienal Latinoamericana de Joyería Contemporánea, Museo José Hernández, Buenos Aires
++ **2016** - Mujeres, Galería de Arte Buenos Aires Sur, Buenos Aires
++ **2016** - The Permanent,  Alliages , Lille, Francia
++ **2016** - 40 Años-Arte, Memoria, Futuro. Muestra online de Joyeros Argentinos
++ **2016** - Salón de la Creatividad y Diseño Artesanal, Berazategui
++ **2016** - Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
++ **2015** - A Dark Spark of Light, Alliages, - Lille, Francia
++ **2015** - The Contemporary Jewelry Exchange
++ **2015** - Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
++ **2015** - Salón de la Creatividad y Diseño Artesanal, Berazategui
++ **2014** - 1° Mención categoría Metal, Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
++ **2013** - Concurso Nacional de Artesanías, Fondo Nacional de las Artes, Buenos Aires
++ **2013** - Tema Pendiente - Joyería Contemporánea con Materiales Reciclados, Buenos Aires
++ **2012** - Colectivo Transformándonos Ciclos. Museo de la Mujer, Buenos Aires
++ **2010** - Colectivo Transformándonos Agua, Aire, Tierra, Fuego. Galería Arte y Parte, Buenos Aires,Centro Favio Virla, Universidad Nacional de Tucumán 2011 Museo de Arte, Gral Pringles, Centro de Arte Isidoro, Cnel Suárez Museo y Archivos, Laprida
 
-#### 2021
-+ Discurri(es) inadvertido(s), TonoLocal, Junín III Bienal Latinoamericana de Joyería Contemporánea
-
-#### 2018
-+ Travesías 847, Estación de Arte, Junín/ Museo de Arte de Mercedes, II Bienal Latinoamericana de Joyería Contemporánea
 
 </div>
 
