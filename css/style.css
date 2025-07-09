@@ -950,3 +950,17 @@ select#page_lang {
     border: 10px solid rgba(0,0,0,0.5);
     background: #00f;
 }
+
+
+
+/* list punteada */
+.disc-list li {
+    list-style: disc!important;
+    margin: 0 2em;
+}
+
+.circle-list li {
+    list-style: circle!important;
+    margin: 0 2em;
+
+}
