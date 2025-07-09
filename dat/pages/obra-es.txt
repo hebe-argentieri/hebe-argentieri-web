@@ -3,12 +3,11 @@ title: Obra
 
 ---
 
-<div class="manifest">
+<div class="manifest ff-bellota">
 
 La materialidad de mi obra se correlaciona y somete a mis narrativas. Cuerno y escobas, plásticos y textiles reutilizados, madera y metal que relatan circunstancias, emociones, realidades  de mi mundo inmediato y las cuestionan.
 
 </div>
-
 
 
 [[= series_list_generate() ]]
