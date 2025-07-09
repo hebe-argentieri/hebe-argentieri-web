@@ -2,19 +2,13 @@
 title: Contacto
 ---
 
-<div class="lined-block">
-
-# Contacto
-
-</div>
-
 <div class="columns">
 
 <div class="img flex_col fc_1d2 mobile">
 
 [[= html_slide([
-    './img/pages/obra_1-color.jpg',
-    './img/pages/obra_2-color.jpg'
+    './img/pages/conctact/obra_b_1.jpg',
+    './img/pages/conctact/obra_b_2.jpg'
     ])
 ]]
 
@@ -23,6 +17,12 @@ title: Contacto
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 <div class="text">
+
+<div class="lined-block">
+
+# Contacto
+
+</div>
 
 
 <div class=" list_item">
