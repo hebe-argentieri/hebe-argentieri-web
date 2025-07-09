@@ -2,12 +2,6 @@
 title: Bio
 ---
 
-<div class="lined-block">
-
-# Bio
-
-</div>
-
 <div class="columns">
 
 <div class="img flex_col fc_1d3 mobile">

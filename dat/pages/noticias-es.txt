@@ -3,6 +3,4 @@ title: Noticias
 
 ---
 
-# Noticias
-
 [[= events_list_generate() ]]

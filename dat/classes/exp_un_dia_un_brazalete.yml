@@ -5,9 +5,11 @@ title: Un día, un brazalete.
 img_ini: exp_un_dia_un_brazalete.jpg
 
 images:
-  - extra/exp_un_dia_un_brazalete_1.jpg
-  - extra/exp_un_dia_un_brazalete_2.jpg
-  - extra/exp_un_dia_un_brazalete_3.jpg
+  - extra/exp_un_dia_un_brazalete/01.jpg
+  - extra/exp_un_dia_un_brazalete/02.jpg
+  - extra/exp_un_dia_un_brazalete/03.jpg
+  - extra/exp_un_dia_un_brazalete/04.jpg
+  - extra/exp_un_dia_un_brazalete/05.jpg
 
 shortxt: |
   Un momento para crear, conectar y llevarte tu brazalete.

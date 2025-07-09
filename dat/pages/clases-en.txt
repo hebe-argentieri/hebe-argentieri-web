@@ -2,12 +2,6 @@
 title: Classes
 ---
 
-<div class="lined-block">
-
-# Classes
-
-</div>
-
 <div class="columns mobile_flex_reverse">
 
 <div class="flex_col fc_1d3">
@@ -16,7 +10,7 @@ title: Classes
 
 ![](/img/events/entrevista_que_se_aprende.jpg)
 
-Interview in ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escuela-de-hebe-argentieri/)
+Entrevista en ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escuela-de-hebe-argentieri/)
 
 <br>
 
@@ -32,7 +26,7 @@ Interview in ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escuel
 
 + [![Email]([[= G.cfg.email_g.icon ]]) [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
 + [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])
-+ [![ [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.icon ]]) [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.url ]])
++ [![ [[= G.cfg.whatsapp.name ]] ]([[= G.cfg.whatsapp.icon ]]) [[= G.cfg.whatsapp.name ]] ]([[= G.cfg.whatsapp.url ]])
 
 </div>
 
@@ -40,10 +34,11 @@ Interview in ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escuel
 
 <div class="text">
 
-Personal and private space where craft, poetics and emotions come in play.
-At my studio I guide participants’ individual search of their creative language by learning techniques, and exploring materials to develop jewelry pieces.
+<div class="ff-bellota">
 
-<br>
+Espacio personal y colectivo, en donde se fraguan el oficio, las poéticas y las emociones. En el taller acompaño en las búsquedas individuales de lenguajes creativos propios - aprender técnicas, descubrir materiales, explorar para desarrollar piezas de joyería.
+
+</div>
 
 ## CLASES REGULARES semanales o quincenales
 
@@ -51,16 +46,23 @@ Clases grupales pero con seguimiento individual por lo que **se puede comenzar e
 
 Explorá el diseño y conceptos para crear piezas únicas que trascienden lo convencional. Aprendé a transformar materiales en objetos que cuentan historias, expresan emociones y reflejan tu visión artística.
 
-Dirigido tanto a quienes quieren iniciarse en el mundo de la joyería como a artistas o diseñadores que buscan ampliar sus posibilidades creativas.
-+ Técnicas de fabricación y experimentación con materiales.
-+ Desarrollo de lenguaje artístico y diseño de colecciones.
-
-¡No se necesita experiencia!
-Grupos reducidos para un seguimiento personalizado.
-
 ![](/img/classes/clases_regulares.jpg)
 
 <br>
+
+<div class="disc-list">
+
++ Dirigido tanto a quienes quieren iniciarse en el mundo de la joyería como a artistas o diseñadores que buscan ampliar sus posibilidades creativas.
++ Técnicas de fabricación y experimentación con materiales.
++ Desarrollo de lenguaje artístico y diseño de colecciones.
++ ¡No se necesita experiencia!
++ Grupos reducidos para un seguimiento personalizado.
+
+</div>
+
+<br>
+
+<div class="circle-list">
 
 **HORARIOS**
 + Miércoles de 14 a 16 hs.
@@ -68,6 +70,9 @@ Grupos reducidos para un seguimiento personalizado.
 + Jueves de 17 a 19 hs.
 + Sábados quincenales de 9 a 13 hs.
 
+</div>
+
+<br>
 
 ## EXPERIENCIAS: Un día de taller
 
@@ -82,6 +87,8 @@ Experimentá un día de taller para crear tu propia pieza de joyería. No necesi
     ])
 ]]
 
+<br>
+
 ## SEMINARIOS INTENSIVOS
 
 Regularmente se ofrecen seminarios intensivos sobre diferentes técnicas y materiales.
@@ -93,7 +100,6 @@ Regularmente se ofrecen seminarios intensivos sobre diferentes técnicas y mater
     'sem_casamiento_de_metales',
     'sem_resina',
     'sem_plastico_reciclados',
-    'sem_modelado_ceras',
     ])
 ]]
 
