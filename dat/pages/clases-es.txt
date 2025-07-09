@@ -40,7 +40,11 @@ Entrevista en ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escue
 
 <div class="text">
 
+<div class="ff-bellota">
+
 Espacio personal y colectivo, en donde se fraguan el oficio, las poéticas y las emociones. En el taller acompaño en las búsquedas individuales de lenguajes creativos propios - aprender técnicas, descubrir materiales, explorar para desarrollar piezas de joyería.
+
+</div>
 
 <br><hr>
 
