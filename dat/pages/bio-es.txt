@@ -35,15 +35,11 @@ title: Bio
 
 Su práctica se nutre de una sensibilidad ambiental que la lleva a repensar la materia, interviniendo plásticos en desuso y desarrollando biomateriales.
 
-</div>
-
-
 Desde 2015 da clases en su propio taller en Junín.
 
+</div>
 
 <div class="text text-small list_compact no_padding_top_first_h2">
-
-
 
 ### FORMACIÓN
 + **2024** - Taller virtual de micelio-biomateriales de hongo. Ana Laura Cantera.
