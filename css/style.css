@@ -159,37 +159,12 @@ code {
 }
 
 
-
 .ff-bellota * {
     font-family: "Bellota", system-ui;
     font-weight: 400;
     font-style: italic;
     font-size: 0.9em;
 }
-
-/*
-.ff-caveat * {
-    font-family: "Caveat", cursive;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: italic;
-    font-size: 1.3em;
-    line-height: 1em !important;
-}
-.ff-playwrite-gb-s  * {
-    font-family: "Playwrite GB S", cursive;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-    font-size: 0.8m;
-}
-.ff-fuzzy-bubbles * {
-    font-family: "Fuzzy Bubbles", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 0.9em;
-}
-*/
 
 .no_padding_top_first_h2 h2:first-child {
     padding-top: 0!important;
