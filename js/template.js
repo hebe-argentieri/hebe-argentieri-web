@@ -1,9 +1,17 @@
 const Template = {};
 
 Template.pages = `
-<ul>[[ _.each(items, function(v){ ]]
-  <li><a href="#p:[[= v ]]">[[= title_pages(v) ]]</a></li>
-[[ }); ]]</ul>`;
+<ul>
+[[ _.each(items, function(v){ ]]
+  <li><a class="page" href="#p:[[= v ]]">[[= title_pages(v) ]]</a></li>
+[[ }); ]]
+<li>&nbsp;</li>
+[[ _.each(contacts, function(v){ ]]
+  <li><a class="contact" href="[[= v.url ]]" title="[[= v.name]]" target="_blank">
+    <img src="[[= v.icon + no_cache() ]]">
+  </a></li>
+[[ }); ]]
+</ul>`;
 
 Template.series = `
 <ul>[[ _.each(items, function(v){ ]]
@@ -64,7 +72,7 @@ Template.events_item = `
   <div class="image"><img src="/img/events/[[= v['images'][0] + no_cache() ]]"></div>
   <div class="text">
     <h2>[[= v['title'] ]]</h2>
-    <div>
+    <div class="link">
       <b class="btn more">+</b>
       <i class="date">[[= v['date'] ]]</i>
     </div>

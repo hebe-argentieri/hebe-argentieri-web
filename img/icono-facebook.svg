@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    inkscape:export-filename="./favicon.png"
    sodipodi:docname="icono-facebook.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
    id="svg8"
    version="1.1"
    viewBox="0 0 8.4666662 8.4666662"
    height="8.4666662mm"
-   width="8.4666662mm">
+   width="8.4666662mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <linearGradient
@@ -128,7 +128,9 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:bbox-nodes="true" />
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -161,7 +163,7 @@
          height="8.4666662"
          width="8.4666662"
          id="rect42"
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1" />
+         style="font-variation-settings:normal;opacity:0;vector-effect:none;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1" />
       <g
          transform="matrix(0.93011057,0,0,0.93011057,4.9150983,4.3512147)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.9395px;line-height:1.25;font-family:'Roboto Black';-inkscape-font-specification:'Roboto Black, ';font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffe38d;fill-opacity:1;stroke:none;stroke-width:3.11029;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.994789;stop-color:#000000;stop-opacity:1"
@@ -169,8 +171,8 @@
          aria-label="N" />
       <path
          id="path38"
-         d="m 50.393918,57.886966 c -0.497561,-0.06544 -1.027342,-0.26342 -1.446798,-0.540647 -1.970203,-1.302153 -2.137109,-4.112248 -0.334244,-5.627509 1.482934,-1.246366 3.706096,-1.051921 4.945785,0.432574 1.245271,1.491183 1.051155,3.705985 -0.433475,4.945786 -0.761835,0.6362 -1.742685,0.919832 -2.731268,0.789796 z m 0.804871,-2.416339 0.0048,-1.044518 h 0.277288 c 0.152508,0 0.281561,-0.0069 0.286789,-0.01537 0.0099,-0.01591 0.01356,-0.04709 0.05034,-0.421002 0.02268,-0.23048 0.02455,-0.286076 0.01028,-0.300431 -0.0046,-0.0046 -0.149218,-0.01002 -0.321315,-0.01185 l -0.312904,-0.0034 0.0013,-0.22283 c 0.0021,-0.36333 0.04032,-0.404287 0.384115,-0.411064 0.125074,-0.0025 0.238036,-0.0051 0.251021,-0.0057 0.01843,-8.69e-4 0.02249,-0.07959 0.01856,-0.358587 l -0.0051,-0.357457 -0.436376,0.0051 c -0.482019,0.0056 -0.553255,0.01734 -0.724005,0.119698 -0.127132,0.07621 -0.258908,0.246216 -0.315456,0.406989 -0.03566,0.101369 -0.04294,0.16904 -0.05124,0.475073 l -0.0096,0.356871 -0.206514,0.0052 -0.206515,0.0052 v 0.362098 0.362099 l 0.185692,0.0027 c 0.102137,0.0014 0.196137,0.0035 0.208903,0.0047 0.01826,0.0014 0.02321,0.222675 0.02321,1.038697 0,0.570228 0.0057,1.0425 0.01276,1.049493 0.007,0.007 0.205451,0.01041 0.441018,0.0078 l 0.428305,-0.0049 z"
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:0.0231013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
+         d="m 50.306996,58.523566 c -0.5886,-0.07742 -1.215315,-0.311618 -1.711518,-0.639569 -2.33069,-1.540407 -2.528134,-4.864664 -0.395401,-6.657171 1.754266,-1.474413 4.384198,-1.24439 5.850712,0.511723 1.473118,1.764022 1.243485,4.384065 -0.512788,5.850713 -0.901227,0.752604 -2.061542,1.088132 -3.231005,0.934304 z m 0.952137,-2.858455 0.0057,-1.235633 h 0.328023 c 0.180413,0 0.333078,-0.0081 0.339262,-0.01818 0.01171,-0.01882 0.01604,-0.05571 0.05956,-0.498032 0.02683,-0.272651 0.02904,-0.338419 0.01216,-0.355401 -0.0054,-0.0054 -0.17652,-0.01185 -0.380105,-0.01402 l -0.370156,-0.0041 0.0015,-0.263601 c 0.0025,-0.429807 0.04769,-0.478259 0.454396,-0.486275 0.147959,-0.003 0.28159,-0.006 0.29695,-0.0067 0.02181,-10e-4 0.0266,-0.09415 0.02196,-0.424197 l -0.006,-0.422861 -0.516219,0.006 c -0.570214,0.0066 -0.654484,0.02051 -0.856475,0.141599 -0.150394,0.09015 -0.306281,0.291266 -0.373176,0.481456 -0.04218,0.119916 -0.05079,0.199969 -0.06061,0.561996 l -0.01136,0.422168 -0.244299,0.0062 -0.244301,0.0062 v 0.428351 0.428351 l 0.219668,0.0032 c 0.120825,0.0016 0.232024,0.0042 0.247126,0.0056 0.0216,0.0016 0.02746,0.263417 0.02746,1.228747 0,0.674561 0.0067,1.233245 0.0151,1.241518 0.0082,0.0082 0.243042,0.01232 0.52171,0.0092 l 0.506672,-0.0058 z"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1" />
     </g>
   </g>
 </svg>

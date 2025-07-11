@@ -214,15 +214,34 @@ header {
     margin: 0 auto;
 }
 
+#menu_pages {
+    vertical-align: middle;
+}
+
 #menu_pages a {
+    user-select: none;
+    transition: all 0.2s ease;
+}
+#menu_pages a.page {
     font-size: 1.1em;
-    text-decoration: nunderline rgba(0,0,0,.3)one;
+    text-decoration: none;
     color: rgba(0,0,0,.6);
 }
+#menu_pages a.contact {
+    text-decoration: none;
+}
+#menu_pages a.contact img {
+    width: 17px;
+}
+
+#menu_pages a.contact:hover {
+    filter: brightness(60%);
+}
+
 #menu_pages a.actual,
 #menu_pages a:hover {
     color: rgba(0,0,0,.9);
-    text-decoration: underline rgba(0,0,0,.3);
+    text-decoration: underline;
 }
 
 .menu_sticky_active header {
@@ -244,12 +263,6 @@ body.locked header {
     margin-top: 100px;
 }
 
-select#page_lang {
-    padding: 3px;
-    border: none;
-    border-radius: 4px;
-    background: #fff;
-}
 .menu ul {
     padding: 0;
     margin: 0;
@@ -493,6 +506,18 @@ select#page_lang {
     font-style: normal;
 
 }
+#events_gallery .text .link {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+#events_gallery .text .link:hover .date {
+    color: #000;
+}
+
 #events_gallery .text .btn {
     background: #aaa;
     color: #fff;
@@ -507,7 +532,7 @@ select#page_lang {
     height: 20px;
     cursor:pointer;
 }
-#events_gallery .text .btn:hover {
+#events_gallery .text .link:hover .btn {
     background: #888;
 }
 
@@ -658,15 +683,14 @@ select#page_lang {
 }
 #events_panel nav button {
     background: #444;
-    color: #aaa;
+    color: #bbb;
     font-weight: bold;
-    padding: 5px 10px;
+    padding: 6px 9px 5px 8px;
     border-radius: 3px;
     cursor: pointer;
     font-size: 1.1em;
-    line-height: 1.1em;
+    line-height: 1em;
     border: none;
-    padding-bottom: 3px;
     user-select: none;
 }
 
@@ -844,15 +868,14 @@ select#page_lang {
 }
 #classes_panel nav button {
     background: #444;
-    color: #aaa;
+    color: #ccc;
     font-weight: bold;
-    padding: 5px 10px;
+    padding: 5px 9px 2px 8px;
     border-radius: 3px;
     cursor: pointer;
     font-size: 1.1em;
-    line-height: 1.1em;
+    line-height: 1em;
     border: none;
-    padding-bottom: 3px;
     user-select: none;
 }
 
@@ -928,8 +951,10 @@ select#page_lang {
 
 #classes_panel .registration {
     padding: 10px 12px;
-    background: #666;
+    background: #888;
+    border-radius: 10px;
     color: #fff;
+    text-align: center;
 }
 #classes_panel .registration * {
     color: #fff;
@@ -944,12 +969,20 @@ select#page_lang {
 
 /* Page language selector */
 #page_lang {
-    position: absolute;
-    top: 0;
+    position: fixed;
+    bottom: 0;
     right: 0;
     font-size: 0.9em;
-    border: 10px solid rgba(0,0,0,0.5);
-    background: #00f;
+    border: 10px solid #555;
+    background: #555;
+    padding: 3px;
+    border: none;
+    color: #fff;
+    border-top-left-radius: 9px;
+}
+#page_lang option {
+    background: #bbb;
+    color: #444;
 }
 
 

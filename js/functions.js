@@ -163,16 +163,16 @@ function menus_generate( v ) {
           maxScrollTop = menu_pages.position().top;
 
     menu_pages.html(
-	    _.template( Template.pages )( { items: v.pages } )
+	    _.template( Template.pages )( { items: v.pages, contacts: G.menues.contacts } )
     );
 
-    menu_pages.delegate( 'a', 'click', function( ev ) {
+    menu_pages.delegate( 'a.page', 'click', function( ev ) {
 	    ev.preventDefault();
 	    redirect_page( $( this ).attr( 'href' ) );
 	    return false;
     });
 
-    menu_pages.find( 'a' ).each( function() {
+    menu_pages.find( 'a.page' ).each( function() {
 	    const $el = $( this );
 	    if( 0 <= document.location.href.indexOf( $el.attr( 'href' ) ) ) {
 	        $el.addClass( 'actual' );
@@ -400,7 +400,7 @@ function events_list_generate() {
 
     const active = () => {
 	    G.events_gallery = $('#'+id);
-	    G.events_gallery.delegate( '.event .btn.more', 'click', function() {
+	    G.events_gallery.delegate( '.event .link', 'click', function() {
 	        const $el = $( this ),
 		          $pa = $el.parent().parent().parent(),
 		          json = JSON.parse( $pa.find( 'script[name=data]' ).eq( 0 ).html() );

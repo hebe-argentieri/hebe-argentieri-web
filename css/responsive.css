@@ -40,12 +40,35 @@
     }
 
     #classes_panel .images img {
-        max-width: 100%;
-        width: 100%;
+        max-width: 90%;
+        max-height: auto;
+        height: auto;
     }
 
     .mobile_flex_reverse {
         flex-flow: column-reverse;
+    }
+
+    #events_gallery .event {
+        margin: 5px;
+    }
+
+    #events_gallery .event .text h2 {
+        padding: 0;
+        margin: 13px 0 5px 0;
+    }
+
+    #events_gallery .event .text {
+        padding: 0px 11px 8px 10px;
+    }
+
+    #events_gallery .event .link {
+        text-align: right;
+    }
+
+    #events_gallery .event .link .btn {
+        line-height: 1.4em;
+        padding: 0;
     }
 
 }

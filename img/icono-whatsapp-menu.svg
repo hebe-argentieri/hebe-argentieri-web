@@ -3,7 +3,7 @@
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    inkscape:export-filename="./favicon.png"
-   sodipodi:docname="icono-whatsapp.svg"
+   sodipodi:docname="icono-whatsapp-menu.svg"
    inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
    id="svg8"
    version="1.1"
@@ -131,11 +131,11 @@
          height="8.4666662"
          width="8.4666662"
          id="rect42"
-         style="font-variation-settings:normal;opacity:0;vector-effect:none;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000" /><g
+         style="font-variation-settings:normal;opacity:0;vector-effect:none;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1" /><g
          transform="matrix(0.93011057,0,0,0.93011057,4.9150983,4.3512147)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.9395px;line-height:1.25;font-family:'Roboto Black';-inkscape-font-specification:'Roboto Black, ';font-variation-settings:normal;vector-effect:none;fill:#ffe38d;fill-opacity:1;stroke:none;stroke-width:3.11029;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.994789;stop-color:#000000"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.9395px;line-height:1.25;font-family:'Roboto Black';-inkscape-font-specification:'Roboto Black, ';font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffe38d;fill-opacity:1;stroke:none;stroke-width:3.11029;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.994789;stop-color:#000000;stop-opacity:1"
          id="text23-5"
          aria-label="N" /><path
-         style="font-variation-settings:normal;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers;stop-color:#000000;stop-opacity:1"
          d="m 46.78019,58.490607 c 0.0057,-0.02854 0.133039,-0.491045 0.279781,-1.028882 l 0.266935,-0.977893 -0.131041,-0.264365 c -0.287319,-0.579461 -0.425753,-1.178794 -0.426125,-1.845187 -5.7e-4,-1.117071 0.426639,-2.14661 1.218307,-2.935622 0.797691,-0.795065 1.820663,-1.219248 2.940275,-1.219248 1.122124,0 2.146267,0.424412 2.940303,1.218449 1.124665,1.124664 1.509508,2.768809 1.001276,4.277744 -0.35675,1.059173 -1.158753,1.956158 -2.17396,2.431415 -0.605527,0.283493 -1.213766,0.405855 -1.910879,0.384443 -0.628538,-0.01998 -1.157181,-0.151025 -1.701813,-0.423868 l -0.253803,-0.12733 -0.986001,0.268933 c -0.542291,0.147885 -1.006185,0.274072 -1.03088,0.280639 -0.04026,0.0114 -0.04368,0.0057 -0.03226,-0.0394 z m 5.39747,-2.238679 c 0.227537,-0.0354 0.561534,-0.236388 0.672647,-0.404713 0.100782,-0.152453 0.150738,-0.510973 0.08194,-0.587084 -0.04054,-0.04482 -0.901897,-0.432977 -0.960793,-0.432862 -0.07137,1.43e-4 -0.156164,0.07222 -0.331427,0.280924 -0.09763,0.116474 -0.194991,0.213833 -0.219829,0.219828 -0.0805,0.01998 -0.390808,-0.119336 -0.658884,-0.296655 -0.298539,-0.197274 -0.6775,-0.598504 -0.849651,-0.899411 -0.07366,-0.128758 -0.06937,-0.147029 0.07737,-0.31761 0.136464,-0.159018 0.202127,-0.272644 0.20327,-0.352952 7.41e-4,-0.04596 -0.06195,-0.218115 -0.18557,-0.508775 -0.224967,-0.528929 -0.223254,-0.527188 -0.481195,-0.527188 -0.129043,0 -0.185569,0.0086 -0.250947,0.04083 -0.114194,0.0551 -0.245808,0.209837 -0.339421,0.398489 -0.182429,0.367826 -0.173578,0.724491 0.02883,1.151957 0.172723,0.364886 0.406226,0.690975 0.751527,1.049894 0.40928,0.42544 0.755525,0.681468 1.222188,0.903781 0.529929,0.252374 0.894616,0.335166 1.239832,0.281208 z"
          id="path1" /></g></g></svg>

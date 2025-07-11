@@ -28,10 +28,10 @@ title: Contact
 
 <div class=" list_item">
 
-+ [![Email]([[= G.cfg.email_g.icon ]]) [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
-+ [![ [[= G.cfg.whatsapp.name ]] ]([[= G.cfg.whatsapp.icon ]]) [[= G.cfg.whatsapp.name ]] ]([[= G.cfg.whatsapp.url ]])
-+ [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])
-+ [![ [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.icon ]]) [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.url ]])
++ [![Email]([[= G.cfg.email_g.icon + no_cache() ]]) [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
++ [![ [[= G.cfg.whatsapp.name ]] ]([[= G.cfg.whatsapp.icon + no_cache() ]]) [[= G.cfg.whatsapp.name ]] ]([[= G.cfg.whatsapp.url ]])
++ [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon + no_cache() ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])
++ [![ [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.icon + no_cache() ]]) [[= G.cfg.facebook.name ]] ]([[= G.cfg.facebook.url ]])
 
 </div>
 

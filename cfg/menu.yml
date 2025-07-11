@@ -8,6 +8,17 @@ pages:
   - noticias
   - contacto
 
+contacts:
+  - icon: /img/icono-instagram-menu.svg
+    name: Instagram
+    url: 'https://instagram.com/hebeargentieri'
+  - icon: /img/icono-whatsapp-menu.svg
+    name: Whatsapp
+    url: 'https://wa.me/542364534671'
+  - icon: /img/icono-email-menu.svg
+    name: Email
+    url: 'mailto:hebeargentieri@gmail.com'
+
 series:
   - cyprinus_carpio
   - desolacion
@@ -20,6 +31,7 @@ series:
   - margaret_mead
 
 events:
+  - 2025-3
   - 2025-2
   - 2025-1
   - 2024-5
