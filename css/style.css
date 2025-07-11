@@ -106,6 +106,9 @@ code {
 .right {
     text-align: right;
 }
+.left {
+    text-align: left;
+}
 
 .pe-30 {
     padding-right: 30px;
@@ -953,6 +956,7 @@ body.locked header {
     padding: 3px;
     border: none;
     color: #fff;
+    font-weight: bold;
     border-top-left-radius: 9px;
 }
 #page_lang option {

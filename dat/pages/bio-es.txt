@@ -4,7 +4,7 @@ title: Bio
 
 <div class="columns">
 
-<div class="flex_col fc_1d3">
+<div class="flex_col fc_1d3 center">
 
 <div class="img mobile">
 
@@ -12,9 +12,8 @@ title: Bio
 
 </div>
 
-<br>
 
-<div class="text-small">
+<div class="text-small ">
 
 **Forma parte de**
 + [ [[= G.cfg.joyeros_argentinos.name ]] ]([[= G.cfg.joyeros_argentinos.url ]]),
@@ -23,6 +22,8 @@ title: Bio
 + [ [[= G.cfg.klimt02.name ]] ]([[= G.cfg.klimt02.url ]]).
 
 </div>
+
+<br>
 
 </div>
 
@@ -98,14 +99,14 @@ Desde 2015 da clases en su propio taller en Junín.
 + **2020** - Growth and Evolution, Instituto de Moda y Diseño, Pekín, China
 + **2019** - Heart Failure, Athens Jewelry Week, Atenas, Grecia/ Schmuck Munich Jewelry Week, Munich, Alemania
 + **2019** - Collectiva Meeting, Oporto, Portugal
-+ **2018** Heart Failure, Alliages, Lille, Francia
-+ **2018** Nosotras, Galería Bs As Sur, Buenos Aires, Argentina
-+ **2018** Vecinos, II Bienal Latinoamericana de Joyería Contemporánea, MAP, Argentina
-+ **2018** Huella, De la Mano, Colombia
-+ **2018** Chaos, Alliages, Lille, Francia
-+ **2018** NOD On Full Volume at Alliages, Lille, Francia
-+ **2017** LOOT, Mad about Jewelry. Museo de Arte y Diseño. New York, USA
-+ **2017** Paradise (Lost), Alliages, Lille, Francia
++ **2018** - Heart Failure, Alliages, Lille, Francia
++ **2018** - Nosotras, Galería Bs As Sur, Buenos Aires, Argentina
++ **2018** - Vecinos, II Bienal Latinoamericana de Joyería Contemporánea, MAP, Argentina
++ **2018** - Huella, De la Mano, Colombia
++ **2018** - Chaos, Alliages, Lille, Francia
++ **2018** - NOD On Full Volume at Alliages, Lille, Francia
++ **2017** - LOOT, Mad about Jewelry. Museo de Arte y Diseño. New York, USA
++ **2017** - Paradise (Lost), Alliages, Lille, Francia
 + **2016** - Bienal Latinoamericana de Joyería Contemporánea, Museo José Hernández, Buenos Aires
 + **2016** - Mujeres, Galería de Arte Buenos Aires Sur, Buenos Aires
 + **2016** - The Permanent,  Alliages , Lille, Francia
