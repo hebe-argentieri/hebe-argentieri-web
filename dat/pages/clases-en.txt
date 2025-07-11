@@ -12,22 +12,6 @@ title: Classes
 
 Entrevista en ["La Joyería de Autor"](https://lajoyeriadeautor.com/taller-escuela-de-hebe-argentieri/)
 
-<br>
-
-![Taller](./img/pages/taller_1-gris.jpg)
-
-<br><br>
-
-</div>
-
-<div class="list_item pe-30">
-
-**CONSULTAS**
-
-+ [![Email]([[= G.cfg.email_g.icon ]]) [[= G.cfg.email_g.account ]] ](mailto:[[= G.cfg.email_g.account ]])
-+ [![ [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.icon ]]) [[= G.cfg.instagram.name ]] ]([[= G.cfg.instagram.url ]])
-+ [![ [[= G.cfg.whatsapp.name ]] ]([[= G.cfg.whatsapp.icon ]]) [[= G.cfg.whatsapp.name ]] ]([[= G.cfg.whatsapp.url ]])
-
 </div>
 
 </div>
