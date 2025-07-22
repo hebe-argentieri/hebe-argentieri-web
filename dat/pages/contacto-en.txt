@@ -35,8 +35,12 @@ title: Contact
 
 </div>
 
+<div class="text-small">
+
 ### CREDITS
-**PHOTOS**: [Damián Wasser](https://www.instagram.com/damianwasserfoto/), [Emmanuel Borao](https://www.instagram.com/emmanuelborao/). © All rights reserved.
+PHOTOS: [*Damián Wasser*](https://www.instagram.com/damianwasserfoto/), [*Emmanuel Borao*](https://www.instagram.com/emmanuelborao/). © All rights reserved.
+
+</div>
 
 </div>
 

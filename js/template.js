@@ -5,7 +5,7 @@ Template.pages = `
 [[ _.each(items, function(v){ ]]
   <li><a class="page" href="#p:[[= v ]]">[[= title_pages(v) ]]</a></li>
 [[ }); ]]
-<li>&nbsp;</li>
+<li class="break_mobile">&nbsp;</li>
 [[ _.each(contacts, function(v){ ]]
   <li><a class="contact" href="[[= v.url ]]" title="[[= v.name]]" target="_blank">
     <img src="[[= v.icon + no_cache() ]]">

@@ -60,9 +60,9 @@ Explorá el diseño y conceptos para crear piezas únicas que trascienden lo con
 
 ## EXPERIENCIAS: Un día de taller
 
-Sumate a la experiencia de diseñar y hacer con tus propias manos mientras disfrutás de un momento único.
-
 Experimentá un día de taller para crear tu propia pieza de joyería. No necesitás ningún tipo de conocimiento especial, cualquiera puede sumarse.
+
+Sumate a la experiencia de diseñar y hacer con tus propias manos mientras disfrutás de un momento único.
 
 [[= classes_list_generate('c_experiencias', [
     'exp_un_dia_un_anillo',

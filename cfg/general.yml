@@ -108,7 +108,7 @@ registration:
   protocol: 'mailto:'
   classes:
     es: 'Para inscribirte a estas clases contactame desde '
-    en: 'To sign up for these classes contact me from '
+    en: 'To sign up for these classes contact me at '
 
 # Páginas / Pages
 initial_page: 'p:obra'

@@ -71,4 +71,13 @@
         padding: 0;
     }
 
+    .text-small h3 { font-size: 0.9em; }
+
+
+}
+
+@media (max-width:400px){
+    .break_mobile {
+        display: table-column-group!important;
+    }
 }
