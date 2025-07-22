@@ -246,7 +246,7 @@ body.locked header {
     margin: 0;
 }
 .menu li {
-    padding: 4px;
+    padding: 0 4px;
     list-style: none;
     display: inline-block;
 }
